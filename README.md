@@ -13,7 +13,7 @@
 ## How to reach me:
 
 - Email: [josephedomobi777@gmail.com](mailto:josephedomobi777@gmail.com)
-- LinkedIn: [Joseph Edomobi](www.linkedin.com/in/joseph-edomobi-2b8a7620a)
+- LinkedIn: [Joseph Edomobi](https://linkedin.com/in/joseph-edomobi-2b8a7620a)
 
 ## Languages and Tools
 
