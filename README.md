@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ## About Me:
-
+- 🚀💡 I bring bold ideas and code to life, one Python script at a time coz i love the language. 🐍✨
 - I'm a passionate Full-Stack Developer with a focus on both frontend and backend technologies majorly Backend.
 - Exploring other languages such as Golang.
 - 🔭 I’m currently working on ...Xendpal - Web-Optimized Static File Hosting and Management Service -
