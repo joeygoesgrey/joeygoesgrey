@@ -13,7 +13,7 @@
 ## How to reach me:
 
 - Email: [godfreydjoseph@gmail.com](mailto:godfreydjoseph@gmail.com)
-- LinkedIn: [D.Joseph Godfrey](www.linkedin.com/in/joseph-edomobi-2b8a7620a)
+- LinkedIn: [Joseph Edomobi](www.linkedin.com/in/joseph-edomobi-2b8a7620a)
 
 ## Languages and Tools
 
