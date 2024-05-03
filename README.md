@@ -6,8 +6,8 @@
 - 🚀💡 I bring bold ideas and code to life, one Python script at a time coz i love the language. 🐍✨
 - I'm a passionate Full-Stack Developer with a focus on both frontend and backend technologies majorly Backend.
 - Exploring other languages such as Golang.
-- 🔭 I’m currently working on ...Xendpal - Web-Optimized Static File Hosting and Management Service -
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working on ...Xendpal - Web-Optimized Static File Database for developers and designers -
+## - 🌱  I’m open to learning any other languages or tools needed in the job
 - In my free time, I take up and build projects that solves real world problems and I also read other developers code to see if I am better...lol.
 
 ## How to reach me:
