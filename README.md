@@ -88,7 +88,6 @@ I'm always open to discussing **new ventures, innovative ideas, and collaborativ
 
 - **Email**: [godfreydjoseph@gmail.com](mailto:godfreydjoseph@gmail.com)
 - **LinkedIn**: [Joseph Edomobi](https://www.linkedin.com/in/joseph-edomobi-aka-joeygoesgrey)
-- **Portfolio**: [Coming Soon] *(Consider adding this!)*
 
 ---
 
