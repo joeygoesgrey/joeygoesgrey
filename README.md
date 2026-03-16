@@ -12,14 +12,14 @@
 
 ## 🚀 Active Ventures
 
-### 🏗️ [Meldev](https://meldev.io) — Africa’s Cloudinary, Built for the Terminal
+### 🏗️ [Meldev](https://meldev.com.ng) — Africa’s Cloudinary, Built for the Terminal
 **Python + FastAPI + Cloudflare Edge + Global CDN**
 * **The Problem:** Nigerian devs paying "Dollar Taxes" on US-based cloud infrastructure.
 * **The Solution:** A Global Content Warehouse with a "Prepaid Meter" billing model (₦). 
 * **Innovation:** Built a standalone binary CLI that handles resumable uploads and on-the-fly "Media Surgery" at the edge.
 * *Status: Scaling to Mainnet.*
 
-### 📖 [SpokenWord.faith](https://spokenword.faith) — AI-Powered Spiritual Search Engine
+### 📖 [SpokenWord](https://spokenword.faith) — AI-Powered Spiritual Search Engine
 **Gemini 1.5 Pro + FastAPI + Vector Embeddings**
 * **The Problem:** Navigating decades of sermon transcripts is a manual, high-friction task.
 * **The Solution:** A RAG-based (Retrieval-Augmented Generation) AI that provides high-fidelity answers grounded in the teachings of William Marrion Branham.
@@ -46,15 +46,20 @@
 
 ## 🤖 Open Source & Research
 * **[LinkedIn Automation Framework](https://github.com/joeygoesgrey/linkedln-bot):** An AI-driven engagement loop used by 20+ devs for automation research.
+  
 * **[FastAPI Boilerplate](https://github.com/joeygoesgrey/FASTAPI-BOILERPLATE):** A production-ready template that cuts project setup time by 50%.
+  
 * **Meldev CLI:** Distributing high-performance binaries for Linux, Mac, and Windows via cross-compilation pipelines.
 
 ---
 
 ## 📈 The Numbers
 - **30+** Production landing pages launched.
+  
 - **#2** Google Ranking achieved for high-value real estate keywords in Abuja.
+  
 - **40%** Reduction in deployment friction via containerization strategies.
+  
 - **-∞** Tolerance for "Dollar-Rate Heartbreaks" in African tech.
 
 ---
@@ -63,7 +68,9 @@
 I’m looking for collaborators who want to challenge the status quo of how infrastructure is built and paid for in emerging markets.
 
 - **Email**: [godfreydjoseph@gmail.com](mailto:godfreydjoseph@gmail.com)
+
 - **X/Twitter**: [@joeygoesgrey](https://twitter.com/joeygoesgrey)
+
 - **Portfolio**: [meldev.io](https://meldev.io)
 
 <p align="center">
