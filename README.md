@@ -1,96 +1,71 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-## 👋 About Me
-
-**Founder-Engineer | Innovation Architect | Full-Stack Developer**
-
-I bridge the gap between technical execution and product vision. I don't just write code—I build ventures that solve real-world problems and create market value. My passion lies in architecting scalable solutions from concept to deployment.
-
-**🚀 What I'm currently building:**
-- **[RentSafe.ng](https://rentsafe.ng/)** - Transforming rental safety through community verification
-- **[Xendpal](https://xendpal.vercel.app/)** - Developer-friendly cloud storage alternative
-- **Open-Source Tools** - Building boilerplates and automation frameworks for the community
-
-## 💼 Featured Projects
-
-### 🏠 [RentSafe.ng](https://rentsafe.ng/)
-**Next.js + FastAPI + PostgreSQL + Docker**
-- Platform for tenants to share and verify rental experiences
-- Full-stack architecture with location services and scalable deployment
-- Solving real-world rental safety challenges in Nigeria
-
-### ☁️ [Xendpal](https://xendpal.vercel.app/)
-**FastAPI + React/TypeScript + Google Cloud Storage**
-- Cloud storage bucket alternative for developers and designers
-- Includes Python CLI tool and `xendpal-magic` library
-- Dockerized for scalable deployments
-
-### 🤖 [LinkedIn Automation Framework](https://github.com/joeygoesgrey/linkedln-bot)
-**Python + Selenium + OpenAI/Gemini APIs**
-- MIT-licensed open-source automation framework
-- AI-driven content generation and engagement loops
-- 20+ GitHub stars and growing community adoption
-
-### ⚡ [FastAPI Boilerplate](https://github.com/joeygoesgrey/FASTAPI-BOILERPLATE)
-**FastAPI + SQLAlchemy + Docker + Redis**
-- Production-ready boilerplate with authentication
-- Reduces project setup time by ~50% for developers
-- Comprehensive caching and ORM configurations
-
-## 🛠️ Technical Arsenal
-
-### **Languages & Platforms**
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="auto" title="Python"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="auto" title="JavaScript"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="auto" title="TypeScript"/></td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/Google.svg" width="55" height="auto" title="Google Cloud"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="auto" title="Docker"/></td>
-  </tr>
-</table>
-
-### **Frontend & Backend**
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="auto" title="React"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55" height="auto" title="Vue.js"/></td>
-    <td><img src="https://icon.icepanel.io/Technology/png-shadow-512/Quasar.png" width="55" height="auto" title="Quasar"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="auto" title="Tailwind CSS"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="auto" title="Django"/></td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="55" height="auto" title="FastAPI"/></td>
-  </tr>
-</table>
-
-### **Databases & DevOps**
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="auto" title="PostgreSQL"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="auto" title="Redis"/></td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" width="55" height="auto" title="Nginx"/></td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="55" height="auto" title="Postman"/></td>
-    <td><img src="https://icon.icepanel.io/Technology/svg/Selenium.svg" width="55" height="auto" title="Selenium"/></td>
-  </tr>
-</table>
-
-## 📈 GitHub Stats
+<h1 align="center">Joseph Edomobi | Founder-Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joeygoesgrey&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeygoesgrey&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joeygoesgrey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeygoesgrey&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-## 📫 Let's Connect
-
-I'm always open to discussing **new ventures, innovative ideas, and collaborative opportunities**.
-
-- **Email**: [godfreydjoseph@gmail.com](mailto:godfreydjoseph@gmail.com)
-- **LinkedIn**: [Joseph Edomobi](https://www.linkedin.com/in/joseph-edomobi-aka-joeygoesgrey)
+## ⚡ The Mission
+**I don't just ship code; I ship infrastructure.** As a 10x Founder-Engineer, I bridge the gap between "it works on my machine" and "it scales globally." I architect systems that solve real-world economic friction—from dollar-volatile cloud costs to rental safety in Nigeria.
 
 ---
 
+## 🚀 Active Ventures
+
+### 🏗️ [Meldev](https://meldev.io) — Africa’s Cloudinary, Built for the Terminal
+**Python + FastAPI + Cloudflare Edge + Global CDN**
+* **The Problem:** Nigerian devs paying "Dollar Taxes" on US-based cloud infrastructure.
+* **The Solution:** A Global Content Warehouse with a "Prepaid Meter" billing model (₦). 
+* **Innovation:** Built a standalone binary CLI that handles resumable uploads and on-the-fly "Media Surgery" at the edge.
+* *Status: Scaling to Mainnet.*
+
+### 📖 [SpokenWord.faith](https://spokenword.faith) — AI-Powered Spiritual Search Engine
+**Gemini 1.5 Pro + FastAPI + Vector Embeddings**
+* **The Problem:** Navigating decades of sermon transcripts is a manual, high-friction task.
+* **The Solution:** A RAG-based (Retrieval-Augmented Generation) AI that provides high-fidelity answers grounded in the teachings of William Marrion Branham.
+* *Status: Production-Ready.*
+
+### 🏠 [RentSafe.ng](https://rentsafe.ng/) — The Trust Layer for Nigerian Real Estate
+**Next.js + FastAPI + PostgreSQL + Docker**
+* **The Problem:** Lack of transparency and safety for tenants in the rental market.
+* **The Solution:** A community-driven verification platform integrating location services (OpenCage) to validate rental experiences.
+
+---
+
+## 🛠️ Technical Arsenal
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Core Languages** | Python (Expert), JavaScript (ES6+), TypeScript, SQL, PHP |
+| **Backend Engines** | FastAPI (High-Perf), Django, RESTful Architecture, WebSockets |
+| **Frontend Craft** | React, Vue.js, Quasar, TailwindCSS, Redux |
+| **Infrastructure** | Docker, CI/CD (GitHub Actions), Nginx, Cloudflare R2/Workers |
+| **Intelligence** | Gemini & OpenAI API Integration, Selenium Automation, RAG |
+
+---
+
+## 🤖 Open Source & Research
+* **[LinkedIn Automation Framework](https://github.com/joeygoesgrey/linkedln-bot):** An AI-driven engagement loop used by 20+ devs for automation research.
+* **[FastAPI Boilerplate](https://github.com/joeygoesgrey/FASTAPI-BOILERPLATE):** A production-ready template that cuts project setup time by 50%.
+* **Meldev CLI:** Distributing high-performance binaries for Linux, Mac, and Windows via cross-compilation pipelines.
+
+---
+
+## 📈 The Numbers
+- **30+** Production landing pages launched.
+- **#2** Google Ranking achieved for high-value real estate keywords in Abuja.
+- **40%** Reduction in deployment friction via containerization strategies.
+- **-∞** Tolerance for "Dollar-Rate Heartbreaks" in African tech.
+
+---
+
+## 📫 Let's Build
+I’m looking for collaborators who want to challenge the status quo of how infrastructure is built and paid for in emerging markets.
+
+- **Email**: [godfreydjoseph@gmail.com](mailto:godfreydjoseph@gmail.com)
+- **X/Twitter**: [@joeygoesgrey](https://twitter.com/joeygoesgrey)
+- **Portfolio**: [meldev.io](https://meldev.io)
+
 <p align="center">
-  <i>🚀 Turning innovative ideas into scalable ventures</i>
+  <i>"Turning innovative ideas into scalable ventures while the terminal is still open."</i>
 </p>
