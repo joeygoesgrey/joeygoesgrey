@@ -69,7 +69,7 @@
       <br><br>
       <b>🤖 AI-Powered Spiritual Search Engine</b>
       <br><br>
-      <code>Gemini 1.5 Pro</code> <code>FastAPI</code> <code>Vector DB</code> <code>RAG</code>
+      <code>Gemini 1.5 Pro</code> <code>WordPress</code> <code>Vector DB</code> <code>RAG</code>
       <br><br>
       <table>
         <tr><td>⚡</td><td><b>Problem:</b> Manual sermon transcript search</td></tr>
@@ -87,7 +87,7 @@
       <br><br>
       <b>🔐 Trust Layer for Nigerian Real Estate</b>
       <br><br>
-      <code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code>
+      <code>Next.js</code> <code>WordPress</code> <code>PostgreSQL</code> <code>Docker</code>
       <br><br>
       <table>
         <tr><td>⚡</td><td><b>Problem:</b> Rental market lacks transparency</td></tr>
@@ -131,6 +131,7 @@
 
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
 ![FastAPI](https://img.shields.io/badge/FastAPI-High%20Perf-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
+![WordPress](https://img.shields.io/badge/WordPress-CMS-21759b?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safe-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
 
@@ -220,13 +221,11 @@
   <a href="mailto:godfreydjoseph@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/joeygoesgrey">
+  <a href="https://x.com/ViceVersaAI2024">
     <img src="https://img.shields.io/badge/🐦%20X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://meldev.io">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-00ff41?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/joeygoesgrey">
+  
+  <a href="https://www.linkedin.com/in/joseph-edomobi-b3b2b43b9">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
