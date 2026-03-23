@@ -69,7 +69,7 @@
       <br><br>
       <b>🤖 AI-Powered Spiritual Search Engine</b>
       <br><br>
-      <code>Gemini 1.5 Pro</code> <code>WordPress</code> <code>Vector DB</code> <code>RAG</code>
+      <code>Gemini 1.5 Pro</code> <code>WordPress</code> <code>Quasar</code> <code>Vector DB</code> <code>RAG</code>
       <br><br>
       <table>
         <tr><td>⚡</td><td><b>Problem:</b> Manual sermon transcript search</td></tr>
@@ -87,7 +87,7 @@
       <br><br>
       <b>🔐 Trust Layer for Nigerian Real Estate</b>
       <br><br>
-      <code>Next.js</code> <code>WordPress</code> <code>PostgreSQL</code> <code>Docker</code>
+      <code>Next.js</code> <code>WordPress</code> <code>MySQL</code>
       <br><br>
       <table>
         <tr><td>⚡</td><td><b>Problem:</b> Rental market lacks transparency</td></tr>
@@ -133,6 +133,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-High%20Perf-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
 ![WordPress](https://img.shields.io/badge/WordPress-CMS-21759b?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117)
+![Quasar](https://img.shields.io/badge/Quasar-Vue%20Framework-1976d2?style=for-the-badge&logo=quasar&logoColor=white&labelColor=0d1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safe-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
 
 ### 🏗️ Infrastructure
