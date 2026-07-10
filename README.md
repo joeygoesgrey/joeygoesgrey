@@ -24,7 +24,7 @@
       <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#10b981">100%</span><br><strong style="font-size: 0.95em;">Billing Bugs Elim.</strong></td>
     </tr>
   </table>
-  <strong><i>All numbers from shipped projects — verified, not vibes.</i></strong>
+  <strong style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;"><i>All numbers from shipped projects — verified, not vibes.</i></strong>
 </div>
 
 <br>
@@ -32,7 +32,7 @@
 <!-- WHY I BUILD -->
 <h2 align="center">Why I Build</h2>
 
-<p align="center" style="font-size: 1.15em; line-height: 1.7;">
+<p align="center" style="font-size: 1.15em; line-height: 1.7; font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
   I don't write code for the sake of it. I build what <b>needs to exist</b> — whether that's a CDN for African developers priced in their own currency, a search engine for a faith community that needed one, or a client landing page that had to convert better.
   <br><br>
   Every project I touch gets treated like my own business. The shortcuts I wouldn't take there, I won't take here. <b>Execution is currency.</b>
@@ -43,7 +43,7 @@
 <!-- SIGNATURE PROJECTS — Full-width stacked cards -->
 <h2 align="center">Signature Work</h2>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
   <tr>
     <td>
       <h3>Meldev</h3>
@@ -137,7 +137,7 @@
 <!-- PROFESSIONAL EXPERIENCE -->
 <h2 align="center">Track Record</h2>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
   <tr>
     <td>
       <h3><a href="https://5thelement.ng">5th Element Creative Media</a></h3>
@@ -211,7 +211,7 @@
 <div align="center">
   <br>
   <blockquote>
-    <p style="font-size: 1.2em;"><i>"The things I wouldn't do in my own business, I won't do in yours."</i></p>
+    <p style="font-size: 1.2em; font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;"><i>"The things I wouldn't do in my own business, I won't do in yours."</i></p>
     <p><strong>— Joseph Edomobi</strong></p>
   </blockquote>
   <br>
@@ -239,7 +239,7 @@
 <!-- INTRO VIDEO -->
 <h2 align="center">A 60-Second Introduction</h2>
 
-<p align="center">
+<p align="center" style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
   <i>I type fast, but some things are better said face-to-face.</i>
   <br><br>
   <a href="https://meldev.com.ng">
@@ -254,7 +254,7 @@
 <!-- LET'S CONNECT -->
 <h2 align="center">Let's Build Together</h2>
 
-<p align="center">
+<p align="center" style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
   <i>Looking for an engineer who treats your codebase like his own business? Available for hire, collaboration, and building the things that shouldn't wait.</i>
 </p>
 
