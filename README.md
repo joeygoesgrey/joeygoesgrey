@@ -47,7 +47,12 @@
   <tr>
     <td>
       <h3>Meldev</h3>
-      <p><i>Developer File Cloud &amp; CDN — Africa's affordable Cloudinary alternative</i></p>
+      <p><i>Developer File Cloud &amp; CDN — Africa's affordable Cloudinary alternative</i>
+      <br>
+      <a href="https://meldev.com.ng">
+        <img src="https://img.shields.io/badge/Visit%20Site-0ea5e9?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0f172a" />
+      </a>
+      </p>
       <p>Built a full cloud platform with a cross-platform <b>CLI</b> so developers can manage workflows directly from the terminal — uploads, downloads, sharing, billing, everything. Engineered an async-first Python backend that cut large-file upload latency <b>10%</b> via dedicated asyncio workers for Cloudflare R2, reduced server costs <b>20%</b>, and eliminated <b>100%</b> of concurrent billing race conditions with Unix <code>fcntl.flock</code>. Reduced auth drop-offs <b>3%</b> via a singleton Axios refresh token pattern.</p>
       <details>
         <summary>Engineering highlights</summary>
@@ -66,7 +71,12 @@
   <tr>
     <td>
       <h3>BranhamSermons.ai</h3>
-      <p><i>AI-powered spiritual search engine — RAG over thousands of sermons</i></p>
+      <p><i>AI-powered spiritual search engine — RAG over thousands of sermons</i>
+      <br>
+      <a href="https://branhamsermons.ai">
+        <img src="https://img.shields.io/badge/Visit%20Site-0ea5e9?style=flat-square&logo=google&logoColor=white&labelColor=0f172a" />
+      </a>
+      </p>
       <p>Originally founded as SpokenWord.faith; now a collaborative project I continue to contribute to. Built a RAG-based search engine that lets users ask natural questions across thousands of sermon transcripts — powered by Gemini 1.5 Pro embeddings with semantic vector search. The project uses <b>Next.js + TailwindCSS + Supabase</b> on the frontend and data layer.</p>
       <details>
         <summary>About this project</summary>
@@ -83,7 +93,12 @@
   <tr>
     <td>
       <h3>LinkedIn Automation Framework</h3>
-      <p><i>AI-driven engagement engine with <b>0</b> duplicate interactions</i></p>
+      <p><i>AI-driven engagement engine with <b>0</b> duplicate interactions</i>
+      <br>
+      <a href="https://github.com/joeygoesgrey/Linkedln-Automation-Framework">
+        <img src="https://img.shields.io/badge/Source%20Code-0ea5e9?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" />
+      </a>
+      </p>
       <p>Python 3.13 CLI-driven framework that generates <b>600+ organic impressions</b> per interaction. Features a 4-tier driver provisioning fallback chain for cross-OS compatibility, SHA-1 deduplication engine with 7-day TTL eviction (zero duplicates guaranteed), and chain-of-responsibility click fallback from native clicks to JS injectors for DOM resilience.</p>
       <details>
         <summary>Engineering highlights</summary>
@@ -101,7 +116,7 @@
   <tr>
     <td>
       <h3>AI Chrome Extensions</h3>
-      <p><i>Tone-aware social media composer injected into complex DOMs</i></p>
+      <p><i>Tone-aware social media comment composer — helps you draft contextually relevant comments anywhere</i></p>
       <p>A suite of JS/TS Chrome extensions that inject AI-powered, tone-aware comment drafting directly into complex platform DOMs. Drove <b>960 post impressions</b> and <b>34 profile visits</b> in 7 days via contextual LLM generation. Built with a 3-layer insert fallback system ensuring content persistence across aggressive layout changes.</p>
       <details>
         <summary>Engineering highlights</summary>
@@ -125,7 +140,7 @@
 <table align="center" width="100%">
   <tr>
     <td>
-      <h3>5th Element Creative Media</h3>
+      <h3><a href="https://5thelement.ng">5th Element Creative Media</a></h3>
       <p><i>Software Developer | Abuja, Nigeria | May 2024 – Jan 2025</i></p>
       <ul>
         <li>Delivered <b>13+ production websites</b> using custom headless WordPress + integrated analytics (PostHog, GA)</li>
@@ -148,7 +163,7 @@
   </tr>
   <tr>
     <td>
-      <h3>27th Development LLC</h3>
+      <h3><a href="https://27thdevelopment.com">27th Development LLC</a></h3>
       <p><i>Full-Stack Web App Developer | Jan 2023 – Mar 2024</i></p>
       <ul>
         <li>Reduced deployment failures <b>−31%</b> by standardizing Docker environments across the engineering team</li>
