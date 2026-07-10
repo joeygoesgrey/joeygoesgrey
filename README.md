@@ -1,250 +1,264 @@
-<!-- Animated Header -->
+<!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:008f11,100:00ffff&height=200&section=header&text=Joseph%20Edomobi&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Founder-Engineer%20%7C%20Building%20Africa's%20Digital%20Infrastructure&descSize=14&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:10b981,100:f59e0b&height=220&section=header&text=Joseph%20Edomobi&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Engineer%20Who%20Builds%20Like%20He%20Owns%20It%20%E2%80%94%2013%2B%20Shipped%20Products&descSize=16&descAlignY=52" />
 </div>
 
-<!-- Typing Animation -->
+<!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=I+don't+just+ship+code...;I+ship+infrastructure+that+scales.;Breaking+the+%22Dollar+Tax%22+on+cloud.;10x+Founder-Engineer.;Bridging+ideas+to+global+systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=I+ship.+Then+I+iterate.;I+treat+code+like+it's+my+own+business.;13+products.+One+mindset%3A+get+it+done.;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Infrastructure" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Spacer -->
 <br>
 
-<!-- GitHub Stats with Animated Border -->
+<!-- METRICS STRIP — Hard numbers, visible immediately -->
 <div align="center">
-  <a href="https://github.com/joeygoesgrey">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joeygoesgrey&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ffff&ring_color=00ff41&fire_color=ff6b6b&count_private=true&include_all_commits=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=joeygoesgrey&theme=transparent&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b6b&currStreakNum=00ffff&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=c9d1d9" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="16%"><b><span style="color:#0ea5e9">13+</span></b><br><sub>Shipped Products</sub></td>
+      <td align="center" width="16%"><b><span style="color:#10b981">+30%</span></b><br><sub>Conversion Lift</sub></td>
+      <td align="center" width="16%"><b><span style="color:#10b981">+40%</span></b><br><sub>Traffic Growth</sub></td>
+      <td align="center" width="16%"><b><span style="color:#0ea5e9">-20%</span></b><br><sub>Infra Cost</sub></td>
+      <td align="center" width="16%"><b><span style="color:#0ea5e9">-31%</span></b><br><sub>Deploy Failures</sub></td>
+      <td align="center" width="16%"><b><span style="color:#10b981">100%</span></b><br><sub>Billing Bugs Elim.</sub></td>
+    </tr>
+  </table>
+  <sub><i>All numbers from shipped projects — verified, not vibes.</i></sub>
 </div>
 
-<!-- Spacer -->
 <br>
 
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeygoesgrey&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ffff&point=ffffff&area=true&hide_border=true" width="98%" />
-</div>
-
-<!-- Spacer -->
-<br><br>
-
-<!-- Section Divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:00ffff&height=2&section=header&width=100%" />
-</div>
-
-<!-- Active Ventures Section -->
+<!-- WHY I BUILD -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  Active Ventures
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Why I Build
 </h2>
 
-<!-- Meldev Card -->
+<p align="center">
+  I don't write code for the sake of it. I build what <b>needs to exist</b> — whether that's a CDN for African developers priced in their own currency, a search engine for a faith community that needed one, or a client landing page that had to convert better.
+  <br><br>
+  Every project I touch gets treated like my own business. The shortcuts I wouldn't take there, I won't take here. <b>Execution is currency.</b>
+</p>
+
+<br>
+
+<!-- SIGNATURE PROJECTS -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  Signature Work
+</h2>
+
 <table align="center">
   <tr>
     <td width="50%">
-      <a href="https://meldev.com.ng">
-        <img src="https://img.shields.io/badge/🚀%20Meldev-Live-00ff41?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d1117" />
-      </a>
-      <br><br>
-      <b>🇳🇬 Africa's Cloudinary, Built for the Terminal</b>
-      <br><br>
-      <code>Python</code> <code>FastAPI</code> <code>Cloudflare</code> <code>Global CDN</code>
-      <br><br>
-      <table>
-        <tr><td>⚡</td><td><b>Problem:</b> Nigerians paying "Dollar Taxes" on cloud</td></tr>
-        <tr><td>💡</td><td><b>Solution:</b> Prepaid Meter billing (₦) + CLI binary</td></tr>
-        <tr><td>🔥</td><td><b>Tech:</b> Resumable uploads, Edge media surgery</td></tr>
-        <tr><td>📊</td><td><b>Status:</b> Scaling to Mainnet</td></tr>
-      </table>
+      <h3>☁️ Meldev</h3>
+      <p><i>Developer File Cloud &amp; CDN — Africa's affordable Cloudinary alternative</i></p>
+      <details>
+        <summary>Engineering highlights</summary>
+        <table>
+          <tr><td>⚡</td><td>Cut large-file upload latency <b>10%</b> with dedicated asyncio workers for Cloudflare R2</td></tr>
+          <tr><td>💰</td><td>Reduced server costs <b>20%</b> via optimized async Python + React 19 SPA</td></tr>
+          <tr><td>🔒</td><td>Eliminated <b>100%</b> of concurrent billing race conditions with Unix <code>fcntl.flock</code></td></tr>
+          <tr><td>📉</td><td>Reduced auth drop-offs <b>3%</b> via singleton Axios refresh token pattern</td></tr>
+        </table>
+      </details>
+      <br>
+      <sub>Python • FastAPI • React 19 • Cloudflare R2 • SQLAlchemy 2.0 • CLI</sub>
     </td>
     <td width="50%">
-      <a href="https://spokenword.faith">
-        <img src="https://img.shields.io/badge/📖%20SpokenWord-Live-00ffff?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
-      </a>
-      <br><br>
-      <b>🤖 AI-Powered Spiritual Search Engine</b>
-      <br><br>
-      <code>Gemini 1.5 Pro</code> <code>WordPress</code> <code>Quasar</code> <code>Vector DB</code> <code>RAG</code>
-      <br><br>
-      <table>
-        <tr><td>⚡</td><td><b>Problem:</b> Manual sermon transcript search</td></tr>
-        <tr><td>💡</td><td><b>Solution:</b> RAG-based AI with high-fidelity answers</td></tr>
-        <tr><td>🔥</td><td><b>Tech:</b> Embeddings, Semantic search</td></tr>
-        <tr><td>📊</td><td><b>Status:</b> Production-Ready</td></tr>
-      </table>
+      <h3>📖 BranhamSermons.ai</h3>
+      <p><i>AI-powered spiritual search engine — RAG over thousands of sermons</i></p>
+      <details>
+        <summary>About this project</summary>
+        <table>
+          <tr><td>🤖</td><td>Built on Gemini 1.5 Pro embeddings with semantic vector search (RAG)</td></tr>
+          <tr><td>🌍</td><td>Founded as SpokenWord.faith; now a collaborative project I contribute to</td></tr>
+          <tr><td>💡</td><td>Users ask natural questions — the AI finds answers across sermon transcripts</td></tr>
+        </table>
+      </details>
+      <br>
+      <sub>Gemini 1.5 Pro • RAG • Vector DB • WordPress • Quasar</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://rentsafe.ng">
-        <img src="https://img.shields.io/badge/🏠%20RentSafe.ng-Live-ff6b6b?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
-      </a>
-      <br><br>
-      <b>🔐 Trust Layer for Nigerian Real Estate</b>
-      <br><br>
-      <code>Next.js</code> <code>WordPress</code> <code>MySQL</code>
-      <br><br>
-      <table>
-        <tr><td>⚡</td><td><b>Problem:</b> Rental market lacks transparency</td></tr>
-        <tr><td>💡</td><td><b>Solution:</b> Community-driven verification platform</td></tr>
-        <tr><td>🔥</td><td><b>Tech:</b> OpenCage geolocation, Reviews</td></tr>
-        <tr><td>📊</td><td><b>Status:</b> Live & Growing</td></tr>
-      </table>
+      <h3>🤖 LinkedIn Automation Framework</h3>
+      <p><i>AI-driven engagement engine with <b>0</b> duplicate interactions</i></p>
+      <details>
+        <summary>Engineering highlights</summary>
+        <table>
+          <tr><td>📊</td><td><b>600+</b> validated organic impressions per interaction via LLM-generated context-aware comments</td></tr>
+          <tr><td>🏗️</td><td>4-tier driver provisioning fallback chain for seamless cross-OS compatibility</td></tr>
+          <tr><td>🛡️</td><td>SHA-1 deduplication engine + 7-day TTL eviction — zero duplicates guaranteed</td></tr>
+          <tr><td>🔄</td><td>Chain-of-responsibility click fallback: native clicks → JS injectors → recovery</td></tr>
+        </table>
+      </details>
+      <br>
+      <sub>Python 3.13 • LLM APIs • Selenium • Asyncio • CLI</sub>
     </td>
     <td width="50%">
-      <div align="center">
-        <br><br>
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
-        <br><br>
-        <i>"The best way to predict the future is to build it."</i>
-        <br><br>
-        <a href="mailto:godfreydjoseph@gmail.com">
-          <img src="https://img.shields.io/badge/💼%20Let's%20Build%20Together-00ff41?style=for-the-badge&labelColor=0d1117" />
-        </a>
-      </div>
+      <h3>🧩 AI Chrome Extensions</h3>
+      <p><i>Tone-aware social media composer injected into complex DOMs</i></p>
+      <details>
+        <summary>Engineering highlights</summary>
+        <table>
+          <tr><td>📈</td><td><b>960</b> post impressions + <b>34</b> profile visits in 7 days</td></tr>
+          <tr><td>🎯</td><td>Contextual LLM comment generation with tone-awareness</td></tr>
+          <tr><td>🛠️</td><td>3-layer insert fallback: scoped DOM search → broader query → clipboard copy</td></tr>
+        </table>
+      </details>
+      <br>
+      <sub>TypeScript • Chrome Extensions API • LLM Integration</sub>
     </td>
   </tr>
 </table>
 
-<!-- Spacer -->
 <br>
 
-<!-- Section Divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:00ff41&height=2&section=header&width=100%" />
-</div>
-
-<!-- Technical Arsenal -->
+<!-- PROFESSIONAL EXPERIENCE -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30">
+  Track Record
+</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <h3>🏢 5th Element Creative Media</h3>
+      <p><i>Software Developer | Abuja, Nigeria | May 2024 – Jan 2025</i></p>
+      <ul>
+        <li>Delivered <b>13+ production websites</b> using custom headless WordPress + integrated analytics (PostHog, GA)</li>
+        <li>Drove <b>+30% lead generation</b> for real estate clients via conversion-focused architecture and CRO pipelines</li>
+        <li>Boosted organic traffic <b>+40%</b> across client sites — server-side caching, Core Web Vitals, structured SEO</li>
+        <li>Achieved <b>#2 Google ranking</b> for "luxury apartments in Abuja" (YannaApartments.com) — <a href="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%20places.png?v=1">screenshot&nbsp;1</a> · <a href="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%202.png?v=1">screenshot&nbsp;2</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🏢 27th Development LLC</h3>
+      <p><i>Full-Stack Web App Developer | Jan 2023 – Mar 2024</i></p>
+      <ul>
+        <li>Reduced deployment failures <b>−31%</b> by standardizing Docker environments across the engineering team</li>
+        <li>Accelerated iteration cycles with modular PostgreSQL schemas + Django REST ↔ Vue.js frontends</li>
+        <li>Enhanced system reliability through expanded test coverage and async debugging</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- TECHNICAL ARSENAL -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30">
   Technical Arsenal
 </h2>
 
 <div align="center">
 
-### 🎯 Core Stack
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-High%20Perf-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
-![WordPress](https://img.shields.io/badge/WordPress-CMS-21759b?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117)
-![Quasar](https://img.shields.io/badge/Quasar-Vue%20Framework-1976d2?style=for-the-badge&logo=quasar&logoColor=white&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safe-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
+### 🎯 Core
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0f172a" />
 
 ### 🏗️ Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Edge-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
-![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d1117)
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0f172a" />
 
 ### 🤖 AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
-![Gemini](https://img.shields.io/badge/Gemini-1.5%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=0d1117)
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white&labelColor=0f172a" />
 
 </div>
 
-<!-- Spacer -->
 <br>
 
-<!-- Section Divider -->
+<!-- OWNERSHIP MANIFESTO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:ff6b6b&height=2&section=header&width=100%" />
+  <br>
+  <blockquote>
+    <p><i>"The things I wouldn't do in my own business, I won't do in yours."</i></p>
+    <p><b>— Joseph Edomobi</b></p>
+  </blockquote>
+  <br>
 </div>
 
-<!-- Open Source -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="35">
-  Open Source Contributions
-</h2>
-
-<div align="center">
-
-| Project | Description | Impact |
-|---------|-------------|--------|
-| 🔗 **[LinkedIn Bot](https://github.com/joeygoesgrey/linkedln-bot)** | AI-driven engagement framework | 20+ developers using |
-| ⚡ **[FastAPI Boilerplate](https://github.com/joeygoesgrey/FASTAPI-BOILERPLATE)** | Production-ready template | 50% faster setup |
-| 🖥️ **Meldev CLI** | Cross-platform binary distribution | Linux/Mac/Windows |
-
-</div>
-
-<!-- Spacer -->
 <br>
 
-<!-- Section Divider -->
+<!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,100:00ff41&height=2&section=header&width=100%" />
+  <a href="https://github.com/joeygoesgrey">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joeygoesgrey&show_icons=true&theme=transparent&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=e2e8f0&icon_color=f59e0b&ring_color=10b981&fire_color=f59e0b&count_private=true&include_all_commits=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=joeygoesgrey&theme=transparent&hide_border=true&background=0f172a&stroke=0ea5e9&ring=10b981&fire=f59e0b&currStreakNum=0ea5e9&currStreakLabel=10b981&sideNums=e2e8f0&sideLabels=e2e8f0" />
+  </a>
 </div>
 
-<!-- The Numbers -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35">
-  The Numbers Don't Lie
-</h2>
-
-<div align="center">
-
-| Metric | Value | Context |
-|:------:|:-----:|:-------:|
-| **30+** | 🚀 | Production landing pages launched |
-| **#2** | 🏆 | Google ranking (Abuja real estate) |
-| **40%** | ⚡ | Deployment friction reduction |
-| **-∞** | 💔 | Tolerance for "Dollar-Rate Heartbreaks" |
-
-</div>
-
-<!-- Spacer -->
 <br>
 
-<!-- Section Divider -->
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:00ff41&height=2&section=header&width=100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeygoesgrey&theme=github-compact&bg_color=0f172a&color=0ea5e9&line=10b981&point=ffffff&area=true&hide_border=true" width="98%" />
 </div>
 
-<!-- Let's Connect -->
+<br>
+
+<!-- INTRO VIDEO -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  Let's Build Together
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  A 60-Second Introduction
 </h2>
 
 <p align="center">
-  <i>Looking for collaborators who want to challenge the status quo of infrastructure in emerging markets.</i>
+  <i>I type fast, but some things are better said face-to-face.</i>
+  <br><br>
+  <a href="https://meldev.com.ng">
+    <img src="https://img.shields.io/badge/▶%20Watch%20My%20Intro-0ea5e9?style=for-the-badge&logo=youtubegaming&logoColor=white&labelColor=0f172a" />
+  </a>
+  <br><br>
+  <sub>(Video coming soon — hosted on Meldev)</sub>
+</p>
+
+<br>
+
+<!-- LET'S CONNECT -->
+<h2 align="center">Let's Build Together</h2>
+
+<p align="center">
+  <i>Looking for an engineer who treats your codebase like his own business? Available for hire, collaboration, and building the things that shouldn't wait.</i>
 </p>
 
 <div align="center">
   <a href="mailto:godfreydjoseph@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" />
   </a>
   <a href="https://x.com/ViceVersaAI2024">
-    <img src="https://img.shields.io/badge/🐦%20X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" />
   </a>
-  
   <a href="https://www.linkedin.com/in/joseph-edomobi-b3b2b43b9">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" />
+  </a>
+  <a href="https://meldev.com.ng">
+    <img src="https://img.shields.io/badge/Meldev-10b981?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0f172a" />
   </a>
 </div>
 
-<!-- Spacer -->
-<br><br>
+<br>
 
-<!-- Footer Quote -->
+<!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Turning%20innovative%20ideas%20into%20scalable%20ventures%20while%20the%20terminal%20is%20still%20open.&author=Joseph%20Edomobi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:10b981,100:0ea5e9&height=120&section=footer" />
 </div>
 
-<!-- Animated Footer -->
+<!-- PROFILE VISITS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:008f11,100:00ff41&height=150&section=footer&animation=twinkling" />
-</div>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joeygoesgrey&style=for-the-badge&color=00ff41" />
+  <img src="https://komarev.com/ghpvc/?username=joeygoesgrey&style=for-the-badge&color=0ea5e9&labelColor=0f172a" />
 </div>
