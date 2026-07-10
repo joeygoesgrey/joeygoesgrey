@@ -70,6 +70,30 @@
   </tr>
   <tr>
     <td>
+      <h3>Paperless</h3>
+      <p><i>AI-powered document digitization for Nigerian schools — snap a photo, get structured data</i>
+      <br>
+      <a href="https://paperless-two-sooty.vercel.app">
+        <img src="https://img.shields.io/badge/View%20Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white&labelColor=0f172a" />
+      </a>
+      </p>
+      <p><b>94% extraction accuracy</b> — a teacher snaps a photo of any document (admission letter, fee receipt, report card), and the system auto-reads names, dates, and amounts via a just-in-time AI pipeline. A quick human check confirms accuracy; then the document is searchable by name or year from any phone. Built with offline-first capture (Web Workers reject bad photos before upload), a fatigue-aware review lock, and stateless JWT permission links instead of user accounts. Multi-tenant data isolation via PostgreSQL Row-Level Security — no app code ever manually filters by school.</p>
+      <details>
+        <summary>Engineering highlights</summary>
+        <table>
+          <tr><td>🧠</td><td><b>94%</b> extraction accuracy via Qwen (OpenRouter) — document processed in <b>&lt;5s</b></td></tr>
+          <tr><td>🏗️</td><td>7-state async state machine for document ingestion — idempotent, fully audited</td></tr>
+          <tr><td>🔗</td><td>Stateless JWT permission links (capture / review / full) — staff share via WhatsApp, no accounts</td></tr>
+          <tr><td>📱</td><td>Offline-first capture: Web Workers binarize + detect blur on-device, reject bad photos before upload</td></tr>
+          <tr><td>🔒</td><td>RLS-based multi-tenancy — PostgreSQL enforces school isolation at the database level</td></tr>
+        </table>
+      </details>
+      <br>
+      <sub>Vue.js • FastAPI • PostgreSQL (RLS) • Qwen (OpenRouter) • Web Workers • Render</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h3>BranhamSermons.ai</h3>
       <p><i>AI-powered spiritual search engine — RAG over thousands of sermons</i>
       <br>
@@ -128,30 +152,6 @@
       </details>
       <br>
       <sub>TypeScript • Chrome Extensions API • LLM Integration</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Paperless</h3>
-      <p><i>AI-powered document digitization for Nigerian schools — snap a photo, get structured data</i>
-      <br>
-      <a href="https://paperless-two-sooty.vercel.app">
-        <img src="https://img.shields.io/badge/View%20Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white&labelColor=0f172a" />
-      </a>
-      </p>
-      <p><b>94% extraction accuracy</b> — a teacher snaps a photo of any document (admission letter, fee receipt, report card), and the system auto-reads names, dates, and amounts via a just-in-time AI pipeline. A quick human check confirms accuracy; then the document is searchable by name or year from any phone. Built with offline-first capture (Web Workers reject bad photos before upload), a fatigue-aware review lock, and stateless JWT permission links instead of user accounts. Multi-tenant data isolation via PostgreSQL Row-Level Security — no app code ever manually filters by school.</p>
-      <details>
-        <summary>Engineering highlights</summary>
-        <table>
-          <tr><td>🧠</td><td><b>94%</b> extraction accuracy via Gemini (OpenRouter) — document processed in <b>&lt;5s</b></td></tr>
-          <tr><td>🏗️</td><td>7-state async state machine for document ingestion — idempotent, fully audited</td></tr>
-          <tr><td>🔗</td><td>Stateless JWT permission links (capture / review / full) — staff share via WhatsApp, no accounts</td></tr>
-          <tr><td>📱</td><td>Offline-first capture: Web Workers binarize + detect blur on-device, reject bad photos before upload</td></tr>
-          <tr><td>🔒</td><td>RLS-based multi-tenancy — PostgreSQL enforces school isolation at the database level</td></tr>
-        </table>
-      </details>
-      <br>
-      <sub>Vue.js • FastAPI • PostgreSQL (RLS) • Gemini (OpenRouter) • Web Workers • Render</sub>
     </td>
   </tr>
 </table>
