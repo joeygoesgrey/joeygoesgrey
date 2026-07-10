@@ -6,36 +6,33 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=I+ship.+Then+I+iterate.;I+treat+code+like+it's+my+own+business.;13+products.+One+mindset%3A+get+it+done.;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=I+ship.+Then+I+iterate.;I+treat+code+like+it's+my+own+business.;13+products.+One+mindset%3A+get+it+done.;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Infrastructure" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<!-- METRICS STRIP — Hard numbers, visible immediately -->
+<!-- METRICS STRIP — Full width, bold, unmissable -->
 <div align="center">
-  <table>
+  <table width="100%" style="max-width: 100%;">
     <tr>
-      <td align="center" width="16%"><b><span style="color:#0ea5e9">13+</span></b><br><sub>Shipped Products</sub></td>
-      <td align="center" width="16%"><b><span style="color:#10b981">+30%</span></b><br><sub>Conversion Lift</sub></td>
-      <td align="center" width="16%"><b><span style="color:#10b981">+40%</span></b><br><sub>Traffic Growth</sub></td>
-      <td align="center" width="16%"><b><span style="color:#0ea5e9">-20%</span></b><br><sub>Infra Cost</sub></td>
-      <td align="center" width="16%"><b><span style="color:#0ea5e9">-31%</span></b><br><sub>Deploy Failures</sub></td>
-      <td align="center" width="16%"><b><span style="color:#10b981">100%</span></b><br><sub>Billing Bugs Elim.</sub></td>
+      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">13+</span><br><strong style="font-size: 0.95em;">Shipped Products</strong></td>
+      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#10b981">+30%</span><br><strong style="font-size: 0.95em;">Conversion Lift</strong></td>
+      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#10b981">+40%</span><br><strong style="font-size: 0.95em;">Traffic Growth</strong></td>
+      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">−20%</span><br><strong style="font-size: 0.95em;">Infra Cost Reduction</strong></td>
+      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">−31%</span><br><strong style="font-size: 0.95em;">Deploy Failures</strong></td>
+      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#10b981">100%</span><br><strong style="font-size: 0.95em;">Billing Bugs Elim.</strong></td>
     </tr>
   </table>
-  <sub><i>All numbers from shipped projects — verified, not vibes.</i></sub>
+  <strong><i>All numbers from shipped projects — verified, not vibes.</i></strong>
 </div>
 
 <br>
 
 <!-- WHY I BUILD -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  Why I Build
-</h2>
+<h2 align="center">Why I Build</h2>
 
-<p align="center">
+<p align="center" style="font-size: 1.15em; line-height: 1.7;">
   I don't write code for the sake of it. I build what <b>needs to exist</b> — whether that's a CDN for African developers priced in their own currency, a search engine for a faith community that needed one, or a client landing page that had to convert better.
   <br><br>
   Every project I touch gets treated like my own business. The shortcuts I wouldn't take there, I won't take here. <b>Execution is currency.</b>
@@ -43,20 +40,19 @@
 
 <br>
 
-<!-- SIGNATURE PROJECTS -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
-  Signature Work
-</h2>
+<!-- SIGNATURE PROJECTS — Full-width stacked cards -->
+<h2 align="center">Signature Work</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h3>☁️ Meldev</h3>
+    <td>
+      <h3>Meldev</h3>
       <p><i>Developer File Cloud &amp; CDN — Africa's affordable Cloudinary alternative</i></p>
+      <p>Built a full cloud platform with a cross-platform <b>CLI</b> so developers can manage workflows directly from the terminal — uploads, downloads, sharing, billing, everything. Engineered an async-first Python backend that cut large-file upload latency <b>10%</b> via dedicated asyncio workers for Cloudflare R2, reduced server costs <b>20%</b>, and eliminated <b>100%</b> of concurrent billing race conditions with Unix <code>fcntl.flock</code>. Reduced auth drop-offs <b>3%</b> via a singleton Axios refresh token pattern.</p>
       <details>
         <summary>Engineering highlights</summary>
         <table>
+          <tr><td>⚡</td><td>CLI + SPA dual interface — developers manage assets from terminal or browser</td></tr>
           <tr><td>⚡</td><td>Cut large-file upload latency <b>10%</b> with dedicated asyncio workers for Cloudflare R2</td></tr>
           <tr><td>💰</td><td>Reduced server costs <b>20%</b> via optimized async Python + React 19 SPA</td></tr>
           <tr><td>🔒</td><td>Eliminated <b>100%</b> of concurrent billing race conditions with Unix <code>fcntl.flock</code></td></tr>
@@ -64,11 +60,14 @@
         </table>
       </details>
       <br>
-      <sub>Python • FastAPI • React 19 • Cloudflare R2 • SQLAlchemy 2.0 • CLI</sub>
+      <sub>Python • FastAPI • React 19 • Cloudflare R2 • SQLAlchemy 2.0 • CLI (cross-platform)</sub>
     </td>
-    <td width="50%">
-      <h3>📖 BranhamSermons.ai</h3>
+  </tr>
+  <tr>
+    <td>
+      <h3>BranhamSermons.ai</h3>
       <p><i>AI-powered spiritual search engine — RAG over thousands of sermons</i></p>
+      <p>Originally founded as SpokenWord.faith; now a collaborative project I continue to contribute to. Built a RAG-based search engine that lets users ask natural questions across thousands of sermon transcripts — powered by Gemini 1.5 Pro embeddings with semantic vector search. The project uses <b>Next.js + TailwindCSS + Supabase</b> on the frontend and data layer.</p>
       <details>
         <summary>About this project</summary>
         <table>
@@ -78,13 +77,14 @@
         </table>
       </details>
       <br>
-      <sub>Gemini 1.5 Pro • RAG • Vector DB • WordPress • Quasar</sub>
+      <sub>Next.js • TailwindCSS • Supabase • Gemini 1.5 Pro • RAG</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🤖 LinkedIn Automation Framework</h3>
+    <td>
+      <h3>LinkedIn Automation Framework</h3>
       <p><i>AI-driven engagement engine with <b>0</b> duplicate interactions</i></p>
+      <p>Python 3.13 CLI-driven framework that generates <b>600+ organic impressions</b> per interaction. Features a 4-tier driver provisioning fallback chain for cross-OS compatibility, SHA-1 deduplication engine with 7-day TTL eviction (zero duplicates guaranteed), and chain-of-responsibility click fallback from native clicks to JS injectors for DOM resilience.</p>
       <details>
         <summary>Engineering highlights</summary>
         <table>
@@ -97,9 +97,12 @@
       <br>
       <sub>Python 3.13 • LLM APIs • Selenium • Asyncio • CLI</sub>
     </td>
-    <td width="50%">
-      <h3>🧩 AI Chrome Extensions</h3>
+  </tr>
+  <tr>
+    <td>
+      <h3>AI Chrome Extensions</h3>
       <p><i>Tone-aware social media composer injected into complex DOMs</i></p>
+      <p>A suite of JS/TS Chrome extensions that inject AI-powered, tone-aware comment drafting directly into complex platform DOMs. Drove <b>960 post impressions</b> and <b>34 profile visits</b> in 7 days via contextual LLM generation. Built with a 3-layer insert fallback system ensuring content persistence across aggressive layout changes.</p>
       <details>
         <summary>Engineering highlights</summary>
         <table>
@@ -117,27 +120,35 @@
 <br>
 
 <!-- PROFESSIONAL EXPERIENCE -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30">
-  Track Record
-</h2>
+<h2 align="center">Track Record</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td>
-      <h3>🏢 5th Element Creative Media</h3>
+      <h3>5th Element Creative Media</h3>
       <p><i>Software Developer | Abuja, Nigeria | May 2024 – Jan 2025</i></p>
       <ul>
         <li>Delivered <b>13+ production websites</b> using custom headless WordPress + integrated analytics (PostHog, GA)</li>
         <li>Drove <b>+30% lead generation</b> for real estate clients via conversion-focused architecture and CRO pipelines</li>
         <li>Boosted organic traffic <b>+40%</b> across client sites — server-side caching, Core Web Vitals, structured SEO</li>
-        <li>Achieved <b>#2 Google ranking</b> for "luxury apartments in Abuja" (YannaApartments.com) — <a href="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%20places.png?v=1">screenshot&nbsp;1</a> · <a href="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%202.png?v=1">screenshot&nbsp;2</a></li>
+        <li>Achieved <b>#2 Google ranking</b> for "luxury apartments in Abuja" (YannaApartments.com)</li>
       </ul>
+      <!-- Ranking proof -->
+      <div align="center">
+        <a href="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%20places.png?v=1">
+          <img src="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%20places.png?v=1" width="48%" alt="Google ranking screenshot 1" />
+        </a>
+        <a href="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%202.png?v=1">
+          <img src="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%202.png?v=1" width="48%" alt="Google ranking screenshot 2" />
+        </a>
+        <br>
+        <sub><i>Click to enlarge — verified ranking data</i></sub>
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>🏢 27th Development LLC</h3>
+      <h3>27th Development LLC</h3>
       <p><i>Full-Stack Web App Developer | Jan 2023 – Mar 2024</i></p>
       <ul>
         <li>Reduced deployment failures <b>−31%</b> by standardizing Docker environments across the engineering team</li>
@@ -151,16 +162,14 @@
 <br>
 
 <!-- TECHNICAL ARSENAL -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30">
-  Technical Arsenal
-</h2>
+<h2 align="center">Technical Arsenal</h2>
 
 <div align="center">
 
 ### 🎯 Core
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0f172a" />
@@ -172,6 +181,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0f172a" />
 
 ### 🤖 AI & Automation
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f172a" />
@@ -186,8 +196,8 @@
 <div align="center">
   <br>
   <blockquote>
-    <p><i>"The things I wouldn't do in my own business, I won't do in yours."</i></p>
-    <p><b>— Joseph Edomobi</b></p>
+    <p style="font-size: 1.2em;"><i>"The things I wouldn't do in my own business, I won't do in yours."</i></p>
+    <p><strong>— Joseph Edomobi</strong></p>
   </blockquote>
   <br>
 </div>
@@ -212,10 +222,7 @@
 <br>
 
 <!-- INTRO VIDEO -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  A 60-Second Introduction
-</h2>
+<h2 align="center">A 60-Second Introduction</h2>
 
 <p align="center">
   <i>I type fast, but some things are better said face-to-face.</i>
