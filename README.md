@@ -53,9 +53,15 @@
         <img src="https://img.shields.io/badge/Visit%20Site-0ea5e9?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0f172a" />
       </a>
       </p>
-      <p>Built a full cloud platform with a cross-platform <b>CLI</b> so developers can manage workflows directly from the terminal - uploads, downloads, sharing, billing, everything. Engineered an async-first Python backend that cut large-file upload latency <b>10%</b> via dedicated asyncio workers for Cloudflare R2, reduced server costs <b>20%</b>, and eliminated <b>100%</b> of concurrent billing race conditions with Unix <code>fcntl.flock</code>. Reduced auth drop-offs <b>3%</b> via a singleton Axios refresh token pattern.</p>
-      <br>
-      <sub>Python • FastAPI • React 19 • Cloudflare R2 • SQLAlchemy 2.0 • CLI (cross-platform)</sub>
+      <ul>
+        <li>Designed and launched a cloud storage and CDN platform tailored for resource-constrained local developers - high-performance file-serving layers that take heavy synchronous loads off origin servers</li>
+        <li>Set up perimeter defenses (Nginx reverse proxies, Fail2ban, Cloudflare) and an automated workflow that passes file uploads to the VirusTotal API, quarantining malicious uploads before they reach users</li>
+        <li>Designed custom AI agents via structured Markdown (.md) system blueprints to offload repetitive coding and debugging to automated workflows</li>
+        <li>Locked down the application and single-node Redis caching layers and offloaded PII-compliant logs to AppSignal for audit trails</li>
+        <li>Moved system credentials into HashiCorp Vault and integrated Google/Microsoft OAuth via Firebase to eliminate credential leaks</li>
+        <li>Built a functional Python-based developer CLI mirroring web platform capabilities for streamlined terminal workflows</li>
+        <li>Scaled the architecture to reliably support 20 active business clients</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -67,9 +73,14 @@
         <img src="https://img.shields.io/badge/View%20Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white&labelColor=0f172a" />
       </a>
       </p>
-      <p><b>94% extraction accuracy</b> - a teacher snaps a photo of any document (admission letter, fee receipt, report card), and the system auto-reads names, dates, and amounts via a just-in-time AI pipeline. A quick human check confirms accuracy; then the document is searchable by name or year from any phone. Built with offline-first capture (Web Workers reject bad photos before upload), a fatigue-aware review lock, and stateless JWT permission links instead of user accounts. Multi-tenant data isolation via PostgreSQL Row-Level Security - no app code ever manually filters by school.</p>
-      <br>
-      <sub>Vue.js • FastAPI • PostgreSQL (RLS) • Qwen (OpenRouter) • Web Workers • Render</sub>
+      <ul>
+        <li>Designed a multi-tenant platform to digitize legacy physical school records with strict row-level security - no school can ever access another's records, even if the system is compromised</li>
+        <li>Built a document processing workflow that converts uploaded files into optimized black-and-white formats, cutting storage size and keeping database queries fast</li>
+        <li>Designed a progressive, step-by-step onboarding flow that cut user setup to under 35 seconds, with PostHog analytics for iterative improvement</li>
+        <li>Enforced Content Security Policies, CORS headers, and rigorous input validation to block SQL injections and malicious client mutations before the backend API</li>
+        <li>Configured AppSignal monitoring with separate streams for performance metrics, application errors, and user audits</li>
+        <li>Managed development via GitHub Projects and secure CI/CD, with team threat-modeling sessions and fully patched Docker environments</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -85,9 +96,9 @@
       <details>
         <summary>About this project</summary>
         <table>
-          <tr><td>🤖</td><td>Built on Gemini 1.5 Pro embeddings with semantic vector search (RAG)</td></tr>
-          <tr><td>🌍</td><td>Founded as SpokenWord.faith; now a collaborative project I contribute to</td></tr>
-          <tr><td>💡</td><td>Users ask natural questions - the AI finds answers across sermon transcripts</td></tr>
+          <tr><td>Built on Gemini 1.5 Pro embeddings with semantic vector search (RAG)</td></tr>
+          <tr><td>Founded as SpokenWord.faith; now a collaborative project I contribute to</td></tr>
+          <tr><td>Users ask natural questions - the AI finds answers across sermon transcripts</td></tr>
         </table>
       </details>
       <br>
@@ -104,8 +115,6 @@
       </a>
       </p>
       <p>Python 3.13 CLI-driven framework that generates <b>600+ organic impressions</b> per interaction. Features a 4-tier driver provisioning fallback chain for cross-OS compatibility, SHA-1 deduplication engine with 7-day TTL eviction (zero duplicates guaranteed), and chain-of-responsibility click fallback from native clicks to JS injectors for DOM resilience.</p>
-      <br>
-      <sub>Python 3.13 • LLM APIs • Selenium • Asyncio • CLI</sub>
     </td>
   </tr>
   <tr>
@@ -113,8 +122,6 @@
       <h3>LAF Chrome Extensions</h3>
       <p><i>AI comment drafting for LinkedIn, X &amp; Reddit - never stare at a blank comment box again</i></p>
       <p>A suite of Chrome extensions (separate from the Python bot) that inject AI-powered comment drafting directly into LinkedIn, X/Twitter, and Reddit. Drove <b>960 post impressions</b> and <b>34 profile visits</b> within the first week - organic, zero ad spend.</p>
-      <br>
-      <sub>TypeScript • Chrome Extensions API • LLM Integration</sub>
     </td>
   </tr>
 </table>
