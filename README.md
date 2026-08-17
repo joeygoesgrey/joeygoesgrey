@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=I+ship.+Then+I+iterate.;I+treat+code+like+it's+my+own+business.;13+products.+One+mindset%3A+get+it+done.;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=I+ship.+Then+I+iterate.;I+treat+code+like+it's+my+own+business.;13+products.+One+mindset%3A+get+it+done." alt="Typing SVG" />
   </a>
 </div>
 
@@ -45,6 +45,42 @@
 <table align="center" width="100%" style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
   <tr>
     <td>
+      <h3>MICRO1</h3>
+      <p><i>Infrastructure &amp; Systems Lead Consultant - Jan - Jul 2026</i></p>
+      <ul>
+        <li>Multi-Cloud &amp; Serverless Blueprinting: Led system design on paper first to blueprint architecture before execution; mapped and migrated core services across GCP, Azure, and DigitalOcean while orchestrating Cloudflare serverless workflows to slash overall cloud bills by <b>25%</b></li>
+        <li>Bare-Metal &amp; VPS Resource Optimization: Engineered full-stack environments on restricted VPS setups; tuned Nginx proxies, configured Fail2ban traffic filtering, and enforced strict Docker memory/CPU limits on 4GB RAM configurations to prevent resource exhaustion</li>
+        <li>Defense-in-Depth Threat Modeling: Architected multi-layered system boundaries by threat-modeling attacker pathways; locked down the application, caching, and database layers to minimize the outer attack surface</li>
+        <li>Advanced Data Governance &amp; Log Offloading: Built automated logging paths that securely stream server logs to isolated third-party storage; ensured PII anonymity compliance while cutting production bug isolation and tracking times to under an hour</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>5th Element Creative Media</h3>
+      <p><i>Web Systems Developer &amp; Access Administrator - Mar 2024 - Aug 2025</i></p>
+      <ul>
+        <li>Technical SEO &amp; Organic Growth: Designed and managed client web ecosystems with custom WordPress environments and PHP; optimized page-load budgets, site structures, and keyword layouts for YannaApartments.com, elevating it from page two to <b>#2 on Google page one</b> within 6 months</li>
+        <li>Enterprise Identity &amp; Access Governance: Managed the organization's Microsoft 365 environment; created admin permissions, locked down shared keys, and enforced strict offboarding protocols to revoke access for departing employees</li>
+        <li>Marketing Automation Pipelines: Built low-cost, open-source lead generation funnels (Mautic and external APIs); engineered automated comment-to-DM routing that passed snippet resources to users while driving traffic to the primary brand site</li>
+        <li>Cross-Department Risk &amp; Compliance Advisory: Acted as the technical bridge for marketing and advertising; evaluated landing pages against Facebook and Google structural constraints, privacy policy compliance, and data collection standards</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>27th Development</h3>
+      <p><i>Full-Stack Systems &amp; Security Engineer - Apr 2023 - Jan 2024</i></p>
+      <ul>
+        <li>Cross-Functional Technical Leadership: Wore multiple engineering and managerial hats to maintain business continuity; led front-end operational shifts while managing a two-team technical squad to deliver core system features</li>
+        <li>Cost-Efficient Infrastructure: Architected full environment stacks (database, caching, application) on a single machine; maximized resource efficiency through vertical scaling and strict Docker container port isolation</li>
+        <li>Data Protection &amp; Bot Traffic Mitigation: Designed a secure custom API layer to filter automated scraping bots; safeguarded public property listings from data theft with hierarchical zero-trust role access for internal staff</li>
+        <li>Engineering Governance &amp; CI/CD Risk Management: Managed robust CI/CD pipelines with blue-green deployments for zero-downtime updates; enforced paper-first system design to prevent messy architecture and hardcoded secret leaks</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h3>Meldev</h3>
       <p><i>Developer File Cloud &amp; CDN - Africa's affordable Cloudinary alternative</i>
       <br>
@@ -79,89 +115,6 @@
         <li>Enforced Content Security Policies, CORS headers, and rigorous input validation to block SQL injections and malicious client mutations before the backend API</li>
         <li>Configured AppSignal monitoring with separate streams for performance metrics, application errors, and user audits</li>
         <li>Managed development via GitHub Projects and secure CI/CD, with team threat-modeling sessions and fully patched Docker environments</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>BranhamSermons.ai</h3>
-      <p><i>AI-powered spiritual search engine - RAG over thousands of sermons</i>
-      <br>
-      <a href="https://branhamsermons.ai">
-        <img src="https://img.shields.io/badge/Visit%20Site-0ea5e9?style=flat-square&logo=google&logoColor=white&labelColor=0f172a" />
-      </a>
-      </p>
-      <p>Originally founded as SpokenWord.faith; now a collaborative project I continue to contribute to. Built a RAG-based search engine that lets users ask natural questions across thousands of sermon transcripts - powered by Gemini 1.5 Pro embeddings with semantic vector search. The project uses <b>Next.js + TailwindCSS + Supabase</b> on the frontend and data layer.</p>
-      <details>
-        <summary>About this project</summary>
-        <table>
-          <tr><td>Built on Gemini 1.5 Pro embeddings with semantic vector search (RAG)</td></tr>
-          <tr><td>Founded as SpokenWord.faith; now a collaborative project I contribute to</td></tr>
-          <tr><td>Users ask natural questions - the AI finds answers across sermon transcripts</td></tr>
-        </table>
-      </details>
-      <br>
-      <sub>Next.js • TailwindCSS • Supabase • Gemini 1.5 Pro • RAG</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>LinkedIn Automation Framework</h3>
-      <p><i>AI-driven engagement engine with <b>0</b> duplicate interactions</i>
-      <br>
-      <a href="https://github.com/joeygoesgrey/Linkedln-Automation-Framework">
-        <img src="https://img.shields.io/badge/Source%20Code-0ea5e9?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" />
-      </a>
-      </p>
-      <p>Python 3.13 CLI-driven framework that generates <b>600+ organic impressions</b> per interaction. Features a 4-tier driver provisioning fallback chain for cross-OS compatibility, SHA-1 deduplication engine with 7-day TTL eviction (zero duplicates guaranteed), and chain-of-responsibility click fallback from native clicks to JS injectors for DOM resilience.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>LAF Chrome Extensions</h3>
-      <p><i>AI comment drafting for LinkedIn, X &amp; Reddit - never stare at a blank comment box again</i></p>
-      <p>A suite of Chrome extensions (separate from the Python bot) that inject AI-powered comment drafting directly into LinkedIn, X/Twitter, and Reddit. Drove <b>960 post impressions</b> and <b>34 profile visits</b> within the first week - organic, zero ad spend.</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- PROFESSIONAL EXPERIENCE -->
-<h2 align="center">Track Record</h2>
-
-<table align="center" width="100%" style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
-  <tr>
-    <td>
-      <h3><a href="https://5thelement.ng">5th Element Creative Media</a></h3>
-      <p><i>Software Developer | Abuja, Nigeria | May 2024 – Jan 2025</i></p>
-      <ul>
-        <li>Delivered <b>13+ production websites</b> using custom headless WordPress + integrated analytics (PostHog, GA)</li>
-        <li>Drove <b>+30% lead generation</b> for real estate clients via conversion-focused architecture and CRO pipelines</li>
-        <li>Boosted organic traffic <b>+40%</b> across client sites - server-side caching, Core Web Vitals, structured SEO</li>
-        <li>Achieved <b>#2 Google ranking</b> for "luxury apartments in Abuja" (YannaApartments.com)</li>
-      </ul>
-      <!-- Ranking proof -->
-      <div align="center">
-        <a href="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%20places.png?v=1">
-          <img src="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%20places.png?v=1" width="48%" alt="Google ranking screenshot 1" />
-        </a>
-        <a href="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%202.png?v=1">
-          <img src="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%202.png?v=1" width="48%" alt="Google ranking screenshot 2" />
-        </a>
-        <br>
-        <sub><i>Click to enlarge - verified ranking data</i></sub>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://27thdevelopment.com">27th Development LLC</a></h3>
-      <p><i>Full-Stack Web App Developer | Jan 2023 – Mar 2024</i></p>
-      <ul>
-        <li>Reduced deployment failures <b>−31%</b> by standardizing Docker environments across the engineering team</li>
-        <li>Accelerated iteration cycles with modular PostgreSQL schemas + Django REST ↔ Vue.js frontends</li>
-        <li>Enhanced system reliability through expanded test coverage and async debugging</li>
       </ul>
     </td>
   </tr>
