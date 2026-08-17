@@ -16,12 +16,11 @@
 <div align="center">
   <table width="100%" style="max-width: 100%;">
     <tr>
-      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">13+</span><br><strong style="font-size: 0.95em;">Shipped Products</strong></td>
-      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#10b981">+30%</span><br><strong style="font-size: 0.95em;">Conversion Lift</strong></td>
-      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#10b981">+40%</span><br><strong style="font-size: 0.95em;">Traffic Growth</strong></td>
-      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">−20%</span><br><strong style="font-size: 0.95em;">Infra Cost Reduction</strong></td>
-      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">−31%</span><br><strong style="font-size: 0.95em;">Deploy Failures</strong></td>
-      <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#10b981">100%</span><br><strong style="font-size: 0.95em;">Billing Bugs Elim.</strong></td>
+      <td align="center" width="20%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">13+</span><br><strong style="font-size: 0.95em;">Shipped Products</strong></td>
+      <td align="center" width="20%"><span style="font-size: 2em; font-weight: 700; color:#10b981">+30%</span><br><strong style="font-size: 0.95em;">Conversion Lift</strong></td>
+      <td align="center" width="20%"><span style="font-size: 2em; font-weight: 700; color:#10b981">+40%</span><br><strong style="font-size: 0.95em;">Traffic Growth</strong></td>
+      <td align="center" width="20%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">−20%</span><br><strong style="font-size: 0.95em;">Infra Cost Reduction</strong></td>
+      <td align="center" width="20%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">−31%</span><br><strong style="font-size: 0.95em;">Deploy Failures</strong></td>
     </tr>
   </table>
   <strong style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;"><i>All numbers from shipped projects - verified, not vibes.</i></strong>
@@ -175,7 +174,7 @@
 
 <div align="center">
 
-### 🎯 Core
+### Core
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0f172a" />
@@ -184,7 +183,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0f172a" />
 
-### 🏗️ Infrastructure
+### Infrastructure
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a" />
@@ -192,7 +191,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0f172a" />
 
-### 🤖 AI & Automation
+### AI & Automation
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white&labelColor=0f172a" />
