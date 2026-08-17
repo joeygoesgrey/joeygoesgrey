@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:10b981,100:f59e0b&height=220&section=header&text=Joseph%20Edomobi&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Engineer%20Who%20Builds%20Like%20He%20Owns%20It%20%E2%80%94%2013%2B%20Shipped%20Products&descSize=16&descAlignY=52" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:10b981,100:f59e0b&height=220&section=header&text=Joseph%20Edomobi&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Engineer%20Who%20Builds%20Like%20He%20Owns%20It%20%2D%2013%2B%20Shipped%20Products&descSize=16&descAlignY=52" />
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -12,7 +12,7 @@
 
 <br>
 
-<!-- METRICS STRIP — Full width, bold, unmissable -->
+<!-- METRICS STRIP - Full width, bold, unmissable -->
 <div align="center">
   <table width="100%" style="max-width: 100%;">
     <tr>
@@ -24,7 +24,7 @@
       <td align="center" width="16%"><span style="font-size: 2em; font-weight: 700; color:#10b981">100%</span><br><strong style="font-size: 0.95em;">Billing Bugs Elim.</strong></td>
     </tr>
   </table>
-  <strong style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;"><i>All numbers from shipped projects — verified, not vibes.</i></strong>
+  <strong style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;"><i>All numbers from shipped projects - verified, not vibes.</i></strong>
 </div>
 
 <br>
@@ -33,37 +33,27 @@
 <h2 align="center">Why I Build</h2>
 
 <p align="center" style="font-size: 1.15em; line-height: 1.7; font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
-  I don't write code for the sake of it. I build what <b>needs to exist</b> — whether that's a CDN for African developers priced in their own currency, a search engine for a faith community that needed one, or a client landing page that had to convert better.
+  I don't write code for the sake of it. I build what <b>needs to exist</b> - whether that's a CDN for African developers priced in their own currency, a search engine for a faith community that needed one, or a client landing page that had to convert better.
   <br><br>
   Every project I touch gets treated like my own business. The shortcuts I wouldn't take there, I won't take here. <b>Execution is currency.</b>
 </p>
 
 <br>
 
-<!-- SIGNATURE PROJECTS — Full-width stacked cards -->
+<!-- SIGNATURE PROJECTS - Full-width stacked cards -->
 <h2 align="center">Signature Work</h2>
 
 <table align="center" width="100%" style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
   <tr>
     <td>
       <h3>Meldev</h3>
-      <p><i>Developer File Cloud &amp; CDN — Africa's affordable Cloudinary alternative</i>
+      <p><i>Developer File Cloud &amp; CDN - Africa's affordable Cloudinary alternative</i>
       <br>
       <a href="https://meldev.com.ng">
         <img src="https://img.shields.io/badge/Visit%20Site-0ea5e9?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0f172a" />
       </a>
       </p>
-      <p>Built a full cloud platform with a cross-platform <b>CLI</b> so developers can manage workflows directly from the terminal — uploads, downloads, sharing, billing, everything. Engineered an async-first Python backend that cut large-file upload latency <b>10%</b> via dedicated asyncio workers for Cloudflare R2, reduced server costs <b>20%</b>, and eliminated <b>100%</b> of concurrent billing race conditions with Unix <code>fcntl.flock</code>. Reduced auth drop-offs <b>3%</b> via a singleton Axios refresh token pattern.</p>
-      <details>
-        <summary>Engineering highlights</summary>
-        <table>
-          <tr><td>⚡</td><td>CLI + SPA dual interface — developers manage assets from terminal or browser</td></tr>
-          <tr><td>⚡</td><td>Cut large-file upload latency <b>10%</b> with dedicated asyncio workers for Cloudflare R2</td></tr>
-          <tr><td>💰</td><td>Reduced server costs <b>20%</b> via optimized async Python + React 19 SPA</td></tr>
-          <tr><td>🔒</td><td>Eliminated <b>100%</b> of concurrent billing race conditions with Unix <code>fcntl.flock</code></td></tr>
-          <tr><td>📉</td><td>Reduced auth drop-offs <b>3%</b> via singleton Axios refresh token pattern</td></tr>
-        </table>
-      </details>
+      <p>Built a full cloud platform with a cross-platform <b>CLI</b> so developers can manage workflows directly from the terminal - uploads, downloads, sharing, billing, everything. Engineered an async-first Python backend that cut large-file upload latency <b>10%</b> via dedicated asyncio workers for Cloudflare R2, reduced server costs <b>20%</b>, and eliminated <b>100%</b> of concurrent billing race conditions with Unix <code>fcntl.flock</code>. Reduced auth drop-offs <b>3%</b> via a singleton Axios refresh token pattern.</p>
       <br>
       <sub>Python • FastAPI • React 19 • Cloudflare R2 • SQLAlchemy 2.0 • CLI (cross-platform)</sub>
     </td>
@@ -71,23 +61,13 @@
   <tr>
     <td>
       <h3>Paperless</h3>
-      <p><i>AI-powered document digitization for Nigerian schools — snap a photo, get structured data</i>
+      <p><i>AI-powered document digitization for Nigerian schools - snap a photo, get structured data</i>
       <br>
       <a href="https://paperless-two-sooty.vercel.app">
         <img src="https://img.shields.io/badge/View%20Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white&labelColor=0f172a" />
       </a>
       </p>
-      <p><b>94% extraction accuracy</b> — a teacher snaps a photo of any document (admission letter, fee receipt, report card), and the system auto-reads names, dates, and amounts via a just-in-time AI pipeline. A quick human check confirms accuracy; then the document is searchable by name or year from any phone. Built with offline-first capture (Web Workers reject bad photos before upload), a fatigue-aware review lock, and stateless JWT permission links instead of user accounts. Multi-tenant data isolation via PostgreSQL Row-Level Security — no app code ever manually filters by school.</p>
-      <details>
-        <summary>Engineering highlights</summary>
-        <table>
-          <tr><td>🧠</td><td><b>94%</b> extraction accuracy via Qwen (OpenRouter) — document processed in <b>&lt;5s</b></td></tr>
-          <tr><td>🏗️</td><td>7-state async state machine for document ingestion — idempotent, fully audited</td></tr>
-          <tr><td>🔗</td><td>Stateless JWT permission links (capture / review / full) — staff share via WhatsApp, no accounts</td></tr>
-          <tr><td>📱</td><td>Offline-first capture: Web Workers binarize + detect blur on-device, reject bad photos before upload</td></tr>
-          <tr><td>🔒</td><td>RLS-based multi-tenancy — PostgreSQL enforces school isolation at the database level</td></tr>
-        </table>
-      </details>
+      <p><b>94% extraction accuracy</b> - a teacher snaps a photo of any document (admission letter, fee receipt, report card), and the system auto-reads names, dates, and amounts via a just-in-time AI pipeline. A quick human check confirms accuracy; then the document is searchable by name or year from any phone. Built with offline-first capture (Web Workers reject bad photos before upload), a fatigue-aware review lock, and stateless JWT permission links instead of user accounts. Multi-tenant data isolation via PostgreSQL Row-Level Security - no app code ever manually filters by school.</p>
       <br>
       <sub>Vue.js • FastAPI • PostgreSQL (RLS) • Qwen (OpenRouter) • Web Workers • Render</sub>
     </td>
@@ -95,19 +75,19 @@
   <tr>
     <td>
       <h3>BranhamSermons.ai</h3>
-      <p><i>AI-powered spiritual search engine — RAG over thousands of sermons</i>
+      <p><i>AI-powered spiritual search engine - RAG over thousands of sermons</i>
       <br>
       <a href="https://branhamsermons.ai">
         <img src="https://img.shields.io/badge/Visit%20Site-0ea5e9?style=flat-square&logo=google&logoColor=white&labelColor=0f172a" />
       </a>
       </p>
-      <p>Originally founded as SpokenWord.faith; now a collaborative project I continue to contribute to. Built a RAG-based search engine that lets users ask natural questions across thousands of sermon transcripts — powered by Gemini 1.5 Pro embeddings with semantic vector search. The project uses <b>Next.js + TailwindCSS + Supabase</b> on the frontend and data layer.</p>
+      <p>Originally founded as SpokenWord.faith; now a collaborative project I continue to contribute to. Built a RAG-based search engine that lets users ask natural questions across thousands of sermon transcripts - powered by Gemini 1.5 Pro embeddings with semantic vector search. The project uses <b>Next.js + TailwindCSS + Supabase</b> on the frontend and data layer.</p>
       <details>
         <summary>About this project</summary>
         <table>
           <tr><td>🤖</td><td>Built on Gemini 1.5 Pro embeddings with semantic vector search (RAG)</td></tr>
           <tr><td>🌍</td><td>Founded as SpokenWord.faith; now a collaborative project I contribute to</td></tr>
-          <tr><td>💡</td><td>Users ask natural questions — the AI finds answers across sermon transcripts</td></tr>
+          <tr><td>💡</td><td>Users ask natural questions - the AI finds answers across sermon transcripts</td></tr>
         </table>
       </details>
       <br>
@@ -124,32 +104,15 @@
       </a>
       </p>
       <p>Python 3.13 CLI-driven framework that generates <b>600+ organic impressions</b> per interaction. Features a 4-tier driver provisioning fallback chain for cross-OS compatibility, SHA-1 deduplication engine with 7-day TTL eviction (zero duplicates guaranteed), and chain-of-responsibility click fallback from native clicks to JS injectors for DOM resilience.</p>
-      <details>
-        <summary>Engineering highlights</summary>
-        <table>
-          <tr><td>📊</td><td><b>600+</b> validated organic impressions per interaction via LLM-generated context-aware comments</td></tr>
-          <tr><td>🏗️</td><td>4-tier driver provisioning fallback chain for seamless cross-OS compatibility</td></tr>
-          <tr><td>🛡️</td><td>SHA-1 deduplication engine + 7-day TTL eviction — zero duplicates guaranteed</td></tr>
-          <tr><td>🔄</td><td>Chain-of-responsibility click fallback: native clicks → JS injectors → recovery</td></tr>
-        </table>
-      </details>
       <br>
       <sub>Python 3.13 • LLM APIs • Selenium • Asyncio • CLI</sub>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>AI Chrome Extensions</h3>
-      <p><i>Tone-aware social media comment composer — helps you draft contextually relevant comments anywhere</i></p>
-      <p>A suite of JS/TS Chrome extensions that inject AI-powered, tone-aware comment drafting directly into complex platform DOMs. Drove <b>960 post impressions</b> and <b>34 profile visits</b> in 7 days via contextual LLM generation. Built with a 3-layer insert fallback system ensuring content persistence across aggressive layout changes.</p>
-      <details>
-        <summary>Engineering highlights</summary>
-        <table>
-          <tr><td>📈</td><td><b>960</b> post impressions + <b>34</b> profile visits in 7 days</td></tr>
-          <tr><td>🎯</td><td>Contextual LLM comment generation with tone-awareness</td></tr>
-          <tr><td>🛠️</td><td>3-layer insert fallback: scoped DOM search → broader query → clipboard copy</td></tr>
-        </table>
-      </details>
+      <h3>LAF Chrome Extensions</h3>
+      <p><i>AI comment drafting for LinkedIn, X &amp; Reddit - never stare at a blank comment box again</i></p>
+      <p>A suite of Chrome extensions (separate from the Python bot) that inject AI-powered comment drafting directly into LinkedIn, X/Twitter, and Reddit. Drove <b>960 post impressions</b> and <b>34 profile visits</b> within the first week - organic, zero ad spend.</p>
       <br>
       <sub>TypeScript • Chrome Extensions API • LLM Integration</sub>
     </td>
@@ -169,7 +132,7 @@
       <ul>
         <li>Delivered <b>13+ production websites</b> using custom headless WordPress + integrated analytics (PostHog, GA)</li>
         <li>Drove <b>+30% lead generation</b> for real estate clients via conversion-focused architecture and CRO pipelines</li>
-        <li>Boosted organic traffic <b>+40%</b> across client sites — server-side caching, Core Web Vitals, structured SEO</li>
+        <li>Boosted organic traffic <b>+40%</b> across client sites - server-side caching, Core Web Vitals, structured SEO</li>
         <li>Achieved <b>#2 Google ranking</b> for "luxury apartments in Abuja" (YannaApartments.com)</li>
       </ul>
       <!-- Ranking proof -->
@@ -181,7 +144,7 @@
           <img src="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/yanna%202.png?v=1" width="48%" alt="Google ranking screenshot 2" />
         </a>
         <br>
-        <sub><i>Click to enlarge — verified ranking data</i></sub>
+        <sub><i>Click to enlarge - verified ranking data</i></sub>
       </div>
     </td>
   </tr>
@@ -236,7 +199,7 @@
   <br>
   <blockquote>
     <p style="font-size: 1.2em; font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;"><i>"The things I wouldn't do in my own business, I won't do in yours."</i></p>
-    <p><strong>— Joseph Edomobi</strong></p>
+    <p><strong>- Joseph Edomobi</strong></p>
   </blockquote>
   <br>
 </div>
@@ -270,7 +233,7 @@
     <img src="https://img.shields.io/badge/▶%20Watch%20My%20Intro-0ea5e9?style=for-the-badge&logo=youtubegaming&logoColor=white&labelColor=0f172a" />
   </a>
   <br><br>
-  <sub>(Video coming soon — hosted on Meldev)</sub>
+  <sub>(Video coming soon - hosted on Meldev)</sub>
 </p>
 
 <br>
