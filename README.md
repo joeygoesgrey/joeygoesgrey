@@ -20,87 +20,150 @@
 <br>
 
 <!-- SIGNATURE PROJECTS - Full-width stacked cards -->
-<h2 align="center">Signature Work</h2>
+<h2 align="center">Professional Experience</h2>
 
 <table align="center" width="100%" style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
   <tr>
     <td>
-      <h3>CENNTRE</h3>
-      <p><i>Infrastructure &amp; Systems Lead Consultant - Jan - Jul 2026</i></p>
-      <ul>
-        <li>Multi-Cloud &amp; Serverless Blueprinting: Led system design on paper first to blueprint architecture before execution; mapped and migrated core services across GCP, Azure, and DigitalOcean while orchestrating Cloudflare serverless workflows to slash overall cloud bills by <b>25%</b></li>
-        <li>Bare-Metal &amp; VPS Resource Optimization: Engineered full-stack environments on restricted VPS setups; tuned Nginx proxies, configured Fail2ban traffic filtering, and enforced strict Docker memory/CPU limits on 4GB RAM configurations to prevent resource exhaustion</li>
-        <li>Defense-in-Depth Threat Modeling: Architected multi-layered system boundaries by threat-modeling attacker pathways; locked down the application, caching, and database layers to minimize the outer attack surface</li>
-        <li>Advanced Data Governance &amp; Log Offloading: Built automated logging paths that securely stream server logs to isolated third-party storage; ensured PII anonymity compliance while cutting production bug isolation and tracking times to under an hour</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>5th Element Creative Media</h3>
-      <p><i>Web Systems Developer &amp; Access Administrator - Mar 2024 - Aug 2025</i></p>
-      <ul>
-        <li>Technical SEO &amp; Organic Growth: Designed and managed client web ecosystems with custom WordPress environments and PHP; optimized page-load budgets, site structures, and keyword layouts for YannaApartments.com, elevating it from page two to <b>#2 on Google page one</b> within 6 months</li>
-        <li>Enterprise Identity &amp; Access Governance: Managed the organization's Microsoft 365 environment; created admin permissions, locked down shared keys, and enforced strict offboarding protocols to revoke access for departing employees</li>
-        <li>Marketing Automation Pipelines: Built low-cost, open-source lead generation funnels (Mautic and external APIs); engineered automated comment-to-DM routing that passed snippet resources to users while driving traffic to the primary brand site</li>
-        <li>Cross-Department Risk &amp; Compliance Advisory: Acted as the technical bridge for marketing and advertising; evaluated landing pages against Facebook and Google structural constraints, privacy policy compliance, and data collection standards</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>27th Development</h3>
-      <p><i>Full-Stack Systems &amp; Security Engineer - Apr 2023 - Jan 2024</i></p>
-      <ul>
-        <li>Cross-Functional Technical Leadership: Wore multiple engineering and managerial hats to maintain business continuity; led front-end operational shifts while managing a two-team technical squad to deliver core system features</li>
-        <li>Cost-Efficient Infrastructure: Architected full environment stacks (database, caching, application) on a single machine; maximized resource efficiency through vertical scaling and strict Docker container port isolation</li>
-        <li>Data Protection &amp; Bot Traffic Mitigation: Designed a secure custom API layer to filter automated scraping bots; safeguarded public property listings from data theft with hierarchical zero-trust role access for internal staff</li>
-        <li>Engineering Governance &amp; CI/CD Risk Management: Managed robust CI/CD pipelines with blue-green deployments for zero-downtime updates; enforced paper-first system design to prevent messy architecture and hardcoded secret leaks</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <h3>Meldev</h3>
-      <p><i>Developer File Cloud &amp; CDN - Africa's affordable Cloudinary alternative</i>
+      <p><i>Software Engineer - Jul 2022 - Present</i>
       <br>
       <a href="https://meldev.com.ng">
         <img src="https://img.shields.io/badge/Visit%20Site-0ea5e9?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0f172a" />
       </a>
       </p>
       <ul>
-        <li>Designed and launched a cloud storage and CDN platform tailored for resource-constrained local developers - high-performance file-serving layers that take heavy synchronous loads off origin servers</li>
-        <li>Set up perimeter defenses (Nginx reverse proxies, Fail2ban, Cloudflare) and an automated workflow that passes file uploads to the VirusTotal API, quarantining malicious uploads before they reach users</li>
-        <li>Designed custom AI agents via structured Markdown (.md) system blueprints to offload repetitive coding and debugging to automated workflows</li>
-        <li>Locked down the application and single-node Redis caching layers and offloaded PII-compliant logs to AppSignal for audit trails</li>
-        <li>Moved system credentials into HashiCorp Vault and integrated Google/Microsoft OAuth via Firebase to eliminate credential leaks</li>
-        <li>Built a functional Python-based developer CLI mirroring web platform capabilities for streamlined terminal workflows</li>
-        <li>Scaled the architecture to reliably support 20 active business clients</li>
+        <li>Cloud Storage Architecture & CDN Deployment: Designed and launched a cloud storage and CDN platform tailored for resource-constrained local developers; built high-performance file-serving layers that took heavy synchronous loads off origin servers to optimize static file delivery</li>
+        <li>Edge Security & Malware Isolation: Set up robust perimeter defenses using Nginx reverse proxies, Fail2ban, and Cloudflare; built an automated workflow that passes file uploads to the VirusTotal API to inspect headers and content, quarantining malicious uploads before they reached end-users</li>
+        <li>AI-Driven Operational Automation: Spearheaded development milestones by designing custom AI agents via structured Markdown (.md) system blueprints; successfully offloaded repetitive coding and debugging tasks to automated workflows before transitioning long-term maintenance to an active engineering team</li>
+        <li>Defense-in-Depth Threat Modeling: Coordinated team planning sessions to model attacker pathways before writing code; locked down application and single-node Redis caching layers while securely offloading PII-compliant logs to AppSignal to preserve audit trails</li>
+        <li>Access Control & Identity Governance: Eliminated credential leaks by moving system credentials out of local environments and into HashiCorp Vault; built secure API key authentication flows and integrated Google/Microsoft OAuth via Firebase to ensure strong user access</li>
+        <li>Product Engineering & Developer Tools: Guided front-end engineers to implement CORS headers, Content Security Policies and rigorous input validation to block SQL injections etc; built a functional Python-based developer CLI that mirrored web platform capabilities to streamline terminal workflows</li>
+        <li>Business Impact & Operational Success: Translated user feedback and traffic analytics into core system refinements, scaling the architecture to reliably support 20 active business clients</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
       <h3>Paperless</h3>
-      <p><i>AI-powered document digitization for Nigerian schools - snap a photo, get structured data</i>
+      <p><i>Software Engineer - Jun 2026 - Aug 2026</i>
       <br>
       <a href="https://paperless-two-sooty.vercel.app">
         <img src="https://img.shields.io/badge/View%20Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white&labelColor=0f172a" />
       </a>
       </p>
       <ul>
-        <li>Designed a multi-tenant platform to digitize legacy physical school records with strict row-level security - no school can ever access another's records, even if the system is compromised</li>
-        <li>Built a document processing workflow that converts uploaded files into optimized black-and-white formats, cutting storage size and keeping database queries fast</li>
-        <li>Designed a progressive, step-by-step onboarding flow that cut user setup to under 35 seconds, with PostHog analytics for iterative improvement</li>
-        <li>Enforced Content Security Policies, CORS headers, and rigorous input validation to block SQL injections and malicious client mutations before the backend API</li>
-        <li>Configured AppSignal monitoring with separate streams for performance metrics, application errors, and user audits</li>
-        <li>Managed development via GitHub Projects and secure CI/CD, with team threat-modeling sessions and fully patched Docker environments</li>
+        <li>Zero-Trust Data Isolation & Database Security: Designed a multi-tenant cloud service to digitize legacy physical school records; implemented strict row-level security rules and database permissions to guarantee complete data isolation so no school could ever access another's records, even if the system was compromised</li>
+        <li>Storage & Performance Optimization: Built a document processing workflow that automatically converted uploaded files into optimized black-and-white formats, significantly reducing file sizes to save cloud storage space and keep database queries fast</li>
+        <li>Product Engineering & Progressive Onboarding: Designed a progressive, step-by-step account setup flow that cut user onboarding time to under 35 seconds; integrated front-end analytic tools (PostHog) to track user interactions and iteratively improve the platform based on real usage data</li>
+        <li>Perimeter Protection & Input Safety: Guided front-end workflows to enforce Content Security Policies (CSP), CORS headers, and rigorous input validation to block web vulnerabilities like SQL injections and malicious client mutations before they could reach the backend API</li>
+        <li>Comprehensive Observability & Logging: Configured robust system monitoring via AppSignal, separating logs into specific streams for system performance metrics, application errors, and user audits to ensure rapid bug tracking and system visibility</li>
+        <li>Project Governance & Secure Deployment: Managed iterative development milestones using GitHub Projects and secure CI/CD pipelines; conducted team threat-modeling sessions to anticipate attacker behaviors, ensuring all server packages and Docker environments used the latest security patches</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>5th element Creative Media</h3>
+      <p><i>Tech Lead - May 2024 - Jan 2025</i></p>
+      <ul>
+        <li>Technical SEO &amp; Organic Growth: Designed and managed client web ecosystems using custom WordPress environments and PHP; optimized page-load budgets, site structures, and keyword layouts for YannaApartments.com, successfully elevating the platform from page two to the #2 position on Google page one within 6 months</li>
+        <li>Enterprise Identity &amp; Access Governance: Managed the organization's corporate Microsoft 365 environment; created administrative user permissions, locked down shared keys, and enforced strict offboarding protocols to immediately revoke system access for departing employees to prevent data leaks</li>
+        <li>Marketing Automation Pipelines: Built low-cost, open-source lead generation funnels utilizing Mautic and external APIs; engineered automated comment-to-DM routing systems that passed snippet resources to users while securely driving traffic back to the primary brand site</li>
+        <li>Cross-Department Risk &amp; Compliance Advisory: Acted as the technical bridge for the marketing and advertising divisions; evaluated landing page layouts to enforce Facebook and Google structural constraints, privacy policy compliance, and data collection standards before campaign launches</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>27th Development LLC</h3>
+      <p><i>Full-Stack Web App Developer - Jan 2023 - Mar 2024</i></p>
+      <ul>
+        <li>Cross-Functional Technical Leadership: Wore multiple engineering and managerial hats to maintain business continuity; successfully led front-end operational shifts while managing a two-team technical squad to deliver core system features</li>
+        <li>Cost-Efficient Infrastructure: Architected with the tech team an entire environment stacks (database, caching, and application layers) on a single machine; maximized resource efficiency to keep infrastructure costs remarkably low through vertical scaling and strict Docker container port isolation</li>
+        <li>Data Protection &amp; Bot Traffic Mitigation: Designed a secure, custom API layer to filter automated scraping bots; safeguarded public property listings from data theft while implementing hierarchical, zero-trust role access for internal staff</li>
+        <li>Engineering Governance &amp; CI/CD Risk Management: Managed robust CI/CD pipelines using blue-green deployment strategies to ensure zero-downtime updates; enforced paper-first system design to ensure the team fully thought through system logic before writing code, preventing messy architecture and hardcoded secret leaks</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Cenntre</h3>
+      <p><i>Infrastructure &amp; Systems Lead Consultant - Mar 2022 - Dec 2022</i></p>
+      <ul>
+        <li>Multi-Cloud &amp; Serverless Blueprinting: Led system design on paper first to blueprint architecture before execution; mapped and migrated core services across GCP, Azure, and DigitalOcean while orchestrating Cloudflare serverless workflows to slash overall cloud bills by <b>25%</b></li>
+        <li>Bare-Metal &amp; VPS Resource Optimization: Engineered full-stack environments on restricted VPS setups; maximized compute efficiency by tuning Nginx proxies, configuring Fail2ban traffic filtering, and enforcing strict Docker memory/CPU limits on 4GB RAM configurations to prevent resource exhaustion</li>
+        <li>Defense-in-Depth Threat Modeling: Architected multi-layered system boundaries by threat-modeling attacker pathways; locked down the application, caching, and database layers to drastically minimize the outer attack surface and proactively neutralize intrusion vectors</li>
+        <li>Advanced Data Governance &amp; Log Offloading: Built automated logging paths that securely stream server logs to isolated third-party storage; ensured strict PII data anonymity compliance while reducing critical production bug isolation and tracking times to under an hour</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<br>
+<h2 align="center">Open-Source Contributions & Projects</h2>
+
+<table align="center" width="100%" style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
+  <tr>
+    <td>
+      <h3>Screenity</h3>
+      <p><i>Screen Recording Tool with 180k+ Users</i></p>
+      <ul>
+        <li><b>The Problem:</b> Linux users were experiencing sudden browser crashes and broken video files because the software did not handle audio and video streams correctly on Linux operating systems.</li>
+        <li><b>The Action:</b> I identified the error in how the system processed video file headers, wrote a clean code fix, and submitted a pull request to the global code repository along with clear instructions for other developers.</li>
+        <li><b>The Result:</b> The fix was approved and merged into production, preventing system crashes for thousands of Linux users and earning a thumbs-up from the development community.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>LinkedIn Automation Framework (LAF) & Content Tools</h3>
+      <p><i>Lead Developer</i></p>
+      <ul>
+        <li><b>The Problem:</b> Professionals wanted a way to grow their social media presence through smart commenting and post scheduling, but manually managing content calendars took too much time.</li>
+        <li><b>The Action:</b> Built a custom desktop browser extension to draft context-aware comment outlines, and engineered a Python-based automation framework to handle posts, likes, and scheduling.</li>
+        <li><b>The Result:</b> Successfully automated daily social media management until third-party platform rules changed, at which point I strategically took the tool offline to safely protect user accounts from being banned.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>A4 Document Print System</h3>
+      <p><i>Lead Developer</i></p>
+      <ul>
+        <li><b>The Problem:</b> Local copy shops in Nigeria struggled with cluttered local device storage, high malware risks from unverified customer file uploads, and inefficient transfer steps between customers and printers.</li>
+        <li><b>The Action:</b> Built the A4 document print system using custom WordPress PHP, Tailwind CSS, Vanilla JS, and Cloudflare R2 storage; integrated a secondary API for malware analysis to scan uploads before they hit print shop machines, allowing customers to send files straight to the system without storing them locally.</li>
+        <li><b>The Result:</b> Successfully eliminated risky middle steps in file transfers, protected local print shop computers from malware attacks, and scaled the platform to support 27 active local photocopy businesses.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>RentSafe</h3>
+      <p><i>Lead Developer</i></p>
+      <ul>
+        <li><b>The Problem:</b> People frequently rented apartments blindly; ending up in high-risk neighborhoods or with hidden property defects like leaking roofs because there was no centralized platform to check honest, real-world tenant reviews and ratings.</li>
+        <li><b>The Action:</b> Built RentSafe using custom WordPress environments and mapping APIs; created a centralized review hub where users can input exact property addresses, share apartment experiences, and check verified neighborhood safety data before renting.</li>
+        <li><b>The Result:</b> Successfully launched a trusted community platform that has already helped users find proper apartments and avoid dangerous or poorly maintained locations based on real tenant ratings.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">Core Competencies</h2>
+
+<table align="center" width="100%" style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
+  <tr>
+    <td>
+      <ul>
+        <li><b>Infrastructure & Cloud Platforms:</b> Google Cloud Platform (GCP), Microsoft Azure, DigitalOcean, Linux, Bare-Metal VPS, Management, Serverless Architectures, Cloudflare Workers, Scalable Object Storage Topology.</li>
+        <li><b>Network & Perimeter Security:</b> Fail2ban Automated Intrusion Prevention, Traffic/Bot Mitigation via Cloudflare Edge, Secure Reverse Proxies (Nginx), Custom VPN Architecture, Cloud Firewalls.</li>
+        <li><b>Full-Stack Layer Protection:</b> Multi-Tier Defenses (Application, Database, Caching, Network Layer Security), Threat Vector Penetration Modeling, Third-Party Secret/Credential Management Keys.</li>
+        <li><b>Data Governance & Logging:</b> External Secure Log Forwarding, PII Data Anonymization Compliance, High-Availability Caching (Redis Topology), Database Layer Isolation, Row-Level Security (RLS).</li>
+        <li><b>Engineering Governance:</b> Big Tech Standard Task Deconstruction, Automated In-House Unit Testing Frameworks, CI/CD Continuous Integration Pipelines, Blue-Green Zero-Downtime Deployments, Post-Commit Secret Leak Incident Mitigation.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <!-- TECHNICAL ARSENAL -->
 <h2 align="center">Technical Arsenal</h2>
