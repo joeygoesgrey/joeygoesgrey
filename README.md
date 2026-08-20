@@ -1,40 +1,20 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:10b981,100:f59e0b&height=220&section=header&text=Joseph%20Edomobi&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Engineer%20Who%20Builds%20Like%20He%20Owns%20It%20%2D%2013%2B%20Shipped%20Products&descSize=16&descAlignY=52" />
+  <img src="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/Lilac and White Simple Marketing LinkedIn Article Cover Image.png?v=1" />
 </div>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=I+ship.+Then+I+iterate.;I+treat+code+like+it's+my+own+business.;13+products.+One+mindset%3A+get+it+done." alt="Typing SVG" />
-  </a>
-</div>
+ 
+<br>
+
+ 
 
 <br>
 
-<!-- METRICS STRIP - Full width, bold, unmissable -->
-<div align="center">
-  <table width="100%" style="max-width: 100%;">
-    <tr>
-      <td align="center" width="20%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">13+</span><br><strong style="font-size: 0.95em;">Shipped Products</strong></td>
-      <td align="center" width="20%"><span style="font-size: 2em; font-weight: 700; color:#10b981">+30%</span><br><strong style="font-size: 0.95em;">Conversion Lift</strong></td>
-      <td align="center" width="20%"><span style="font-size: 2em; font-weight: 700; color:#10b981">+40%</span><br><strong style="font-size: 0.95em;">Traffic Growth</strong></td>
-      <td align="center" width="20%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">−20%</span><br><strong style="font-size: 0.95em;">Infra Cost Reduction</strong></td>
-      <td align="center" width="20%"><span style="font-size: 2em; font-weight: 700; color:#0ea5e9">−31%</span><br><strong style="font-size: 0.95em;">Deploy Failures</strong></td>
-    </tr>
-  </table>
-  <strong style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;"><i>All numbers from shipped projects - verified, not vibes.</i></strong>
-</div>
-
-<br>
-
-<!-- WHY I BUILD -->
-<h2 align="center">Why I Build</h2>
+ 
+<h2 align="center">IN A NUTSHELL </h2>
 
 <p align="center" style="font-size: 1.15em; line-height: 1.7; font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
-  I don't write code for the sake of it. I build what <b>needs to exist</b> - whether that's a CDN for African developers priced in their own currency, a search engine for a faith community that needed one, or a client landing page that had to convert better.
-  <br><br>
-  Every project I touch gets treated like my own business. The shortcuts I wouldn't take there, I won't take here. <b>Execution is currency.</b>
+  I’m a web systems architect your company absolutely needs to build advanced tech, get and keep customers, and achieve top-tier results without needing a massive budget.
 </p>
 
 <br>
@@ -45,7 +25,7 @@
 <table align="center" width="100%" style="font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
   <tr>
     <td>
-      <h3>MICRO1</h3>
+      <h3>CENNTRE</h3>
       <p><i>Infrastructure &amp; Systems Lead Consultant - Jan - Jul 2026</i></p>
       <ul>
         <li>Multi-Cloud &amp; Serverless Blueprinting: Led system design on paper first to blueprint architecture before execution; mapped and migrated core services across GCP, Azure, and DigitalOcean while orchestrating Cloudflare serverless workflows to slash overall cloud bills by <b>25%</b></li>
