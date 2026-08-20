@@ -2,13 +2,7 @@
 <div align="center">
   <img src="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/Lilac and White Simple Marketing LinkedIn Article Cover Image.png?v=1" />
 </div>
-<style>
-li {
-  margin-top: 15px;
-  margin-bottom: 15px;
-}
 
-</style>
 <h2 align="center">IN A NUTSHELL </h2>
 
 <p align="center" style="font-size: 1.15em; line-height: 1.7; font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
@@ -31,19 +25,19 @@ li {
       </a>
       </p>
       <ul>
-        <li>Cloud Storage Architecture & CDN Deployment: Designed and launched a cloud storage and CDN platform tailored for resource-constrained local developers; built high-performance file-serving layers that took heavy synchronous loads off origin servers to optimize static file delivery</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Cloud Storage Architecture & CDN Deployment: Designed and launched a cloud storage and CDN platform tailored for resource-constrained local developers; built high-performance file-serving layers that took heavy synchronous loads off origin servers to optimize static file delivery</li>
 
-        <li>Edge Security & Malware Isolation: Set up robust perimeter defenses using Nginx reverse proxies, Fail2ban, and Cloudflare; built an automated workflow that passes file uploads to the VirusTotal API to inspect headers and content, quarantining malicious uploads before they reached end-users</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Edge Security & Malware Isolation: Set up robust perimeter defenses using Nginx reverse proxies, Fail2ban, and Cloudflare; built an automated workflow that passes file uploads to the VirusTotal API to inspect headers and content, quarantining malicious uploads before they reached end-users</li>
 
-        <li>AI-Driven Operational Automation: Spearheaded development milestones by designing custom AI agents via structured Markdown (.md) system blueprints; successfully offloaded repetitive coding and debugging tasks to automated workflows before transitioning long-term maintenance to an active engineering team</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"AI-Driven Operational Automation: Spearheaded development milestones by designing custom AI agents via structured Markdown (.md) system blueprints; successfully offloaded repetitive coding and debugging tasks to automated workflows before transitioning long-term maintenance to an active engineering team</li>
 
-        <li>Defense-in-Depth Threat Modeling: Coordinated team planning sessions to model attacker pathways before writing code; locked down application and single-node Redis caching layers while securely offloading PII-compliant logs to AppSignal to preserve audit trails</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Defense-in-Depth Threat Modeling: Coordinated team planning sessions to model attacker pathways before writing code; locked down application and single-node Redis caching layers while securely offloading PII-compliant logs to AppSignal to preserve audit trails</li>
 
-        <li>Access Control & Identity Governance: Eliminated credential leaks by moving system credentials out of local environments and into HashiCorp Vault; built secure API key authentication flows and integrated Google/Microsoft OAuth via Firebase to ensure strong user access</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Access Control & Identity Governance: Eliminated credential leaks by moving system credentials out of local environments and into HashiCorp Vault; built secure API key authentication flows and integrated Google/Microsoft OAuth via Firebase to ensure strong user access</li>
 
-        <li>Product Engineering & Developer Tools: Guided front-end engineers to implement CORS headers, Content Security Policies and rigorous input validation to block SQL injections etc; built a functional Python-based developer CLI that mirrored web platform capabilities to streamline terminal workflows</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Product Engineering & Developer Tools: Guided front-end engineers to implement CORS headers, Content Security Policies and rigorous input validation to block SQL injections etc; built a functional Python-based developer CLI that mirrored web platform capabilities to streamline terminal workflows</li>
 
-        <li>Business Impact & Operational Success: Translated user feedback and traffic analytics into core system refinements, scaling the architecture to reliably support 20 active business clients</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Business Impact & Operational Success: Translated user feedback and traffic analytics into core system refinements, scaling the architecture to reliably support 20 active business clients</li>
       </ul>
     </td>
   </tr>
@@ -57,17 +51,17 @@ li {
       </a>
       </p>
       <ul>
-        <li>Zero-Trust Data Isolation & Database Security: Designed a multi-tenant cloud service to digitize legacy physical school records; implemented strict row-level security rules and database permissions to guarantee complete data isolation so no school could ever access another's records, even if the system was compromised</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Zero-Trust Data Isolation & Database Security: Designed a multi-tenant cloud service to digitize legacy physical school records; implemented strict row-level security rules and database permissions to guarantee complete data isolation so no school could ever access another's records, even if the system was compromised</li>
 
-        <li>Storage & Performance Optimization: Built a document processing workflow that automatically converted uploaded files into optimized black-and-white formats, significantly reducing file sizes to save cloud storage space and keep database queries fast</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Storage & Performance Optimization: Built a document processing workflow that automatically converted uploaded files into optimized black-and-white formats, significantly reducing file sizes to save cloud storage space and keep database queries fast</li>
 
-        <li>Product Engineering & Progressive Onboarding: Designed a progressive, step-by-step account setup flow that cut user onboarding time to under 35 seconds; integrated front-end analytic tools (PostHog) to track user interactions and iteratively improve the platform based on real usage data</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Product Engineering & Progressive Onboarding: Designed a progressive, step-by-step account setup flow that cut user onboarding time to under 35 seconds; integrated front-end analytic tools (PostHog) to track user interactions and iteratively improve the platform based on real usage data</li>
 
-        <li>Perimeter Protection & Input Safety: Guided front-end workflows to enforce Content Security Policies (CSP), CORS headers, and rigorous input validation to block web vulnerabilities like SQL injections and malicious client mutations before they could reach the backend API</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Perimeter Protection & Input Safety: Guided front-end workflows to enforce Content Security Policies (CSP), CORS headers, and rigorous input validation to block web vulnerabilities like SQL injections and malicious client mutations before they could reach the backend API</li>
 
-        <li>Comprehensive Observability & Logging: Configured robust system monitoring via AppSignal, separating logs into specific streams for system performance metrics, application errors, and user audits to ensure rapid bug tracking and system visibility</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Comprehensive Observability & Logging: Configured robust system monitoring via AppSignal, separating logs into specific streams for system performance metrics, application errors, and user audits to ensure rapid bug tracking and system visibility</li>
 
-        <li>Project Governance & Secure Deployment: Managed iterative development milestones using GitHub Projects and secure CI/CD pipelines; conducted team threat-modeling sessions to anticipate attacker behaviors, ensuring all server packages and Docker environments used the latest security patches</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Project Governance & Secure Deployment: Managed iterative development milestones using GitHub Projects and secure CI/CD pipelines; conducted team threat-modeling sessions to anticipate attacker behaviors, ensuring all server packages and Docker environments used the latest security patches</li>
 
       </ul>
     </td>
@@ -77,13 +71,13 @@ li {
       <h3>5th element Creative Media</h3>
       <p><i>Tech Lead - May 2024 - Jan 2025</i></p>
       <ul>
-        <li>Technical SEO &amp; Organic Growth: Designed and managed client web ecosystems using custom WordPress environments and PHP; optimized page-load budgets, site structures, and keyword layouts for YannaApartments.com, successfully elevating the platform from page two to the #2 position on Google page one within 6 months</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Technical SEO &amp; Organic Growth: Designed and managed client web ecosystems using custom WordPress environments and PHP; optimized page-load budgets, site structures, and keyword layouts for YannaApartments.com, successfully elevating the platform from page two to the #2 position on Google page one within 6 months</li>
 
-        <li>Enterprise Identity &amp; Access Governance: Managed the organization's corporate Microsoft 365 environment; created administrative user permissions, locked down shared keys, and enforced strict offboarding protocols to immediately revoke system access for departing employees to prevent data leaks</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Enterprise Identity &amp; Access Governance: Managed the organization's corporate Microsoft 365 environment; created administrative user permissions, locked down shared keys, and enforced strict offboarding protocols to immediately revoke system access for departing employees to prevent data leaks</li>
 
-        <li>Marketing Automation Pipelines: Built low-cost, open-source lead generation funnels utilizing Mautic and external APIs; engineered automated comment-to-DM routing systems that passed snippet resources to users while securely driving traffic back to the primary brand site</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Marketing Automation Pipelines: Built low-cost, open-source lead generation funnels utilizing Mautic and external APIs; engineered automated comment-to-DM routing systems that passed snippet resources to users while securely driving traffic back to the primary brand site</li>
 
-        <li>Cross-Department Risk &amp; Compliance Advisory: Acted as the technical bridge for the marketing and advertising divisions; evaluated landing page layouts to enforce Facebook and Google structural constraints, privacy policy compliance, and data collection standards before campaign launches</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Cross-Department Risk &amp; Compliance Advisory: Acted as the technical bridge for the marketing and advertising divisions; evaluated landing page layouts to enforce Facebook and Google structural constraints, privacy policy compliance, and data collection standards before campaign launches</li>
 
       </ul>
     </td>
@@ -93,13 +87,13 @@ li {
       <h3>27th Development LLC</h3>
       <p><i>Full-Stack Web App Developer - Jan 2023 - Mar 2024</i></p>
       <ul>
-        <li>Cross-Functional Technical Leadership: Wore multiple engineering and managerial hats to maintain business continuity; successfully led front-end operational shifts while managing a two-team technical squad to deliver core system features</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Cross-Functional Technical Leadership: Wore multiple engineering and managerial hats to maintain business continuity; successfully led front-end operational shifts while managing a two-team technical squad to deliver core system features</li>
 
-        <li>Cost-Efficient Infrastructure: Architected with the tech team an entire environment stacks (database, caching, and application layers) on a single machine; maximized resource efficiency to keep infrastructure costs remarkably low through vertical scaling and strict Docker container port isolation</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Cost-Efficient Infrastructure: Architected with the tech team an entire environment stacks (database, caching, and application layers) on a single machine; maximized resource efficiency to keep infrastructure costs remarkably low through vertical scaling and strict Docker container port isolation</li>
 
-        <li>Data Protection &amp; Bot Traffic Mitigation: Designed a secure, custom API layer to filter automated scraping bots; safeguarded public property listings from data theft while implementing hierarchical, zero-trust role access for internal staff</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Data Protection &amp; Bot Traffic Mitigation: Designed a secure, custom API layer to filter automated scraping bots; safeguarded public property listings from data theft while implementing hierarchical, zero-trust role access for internal staff</li>
 
-        <li>Engineering Governance &amp; CI/CD Risk Management: Managed robust CI/CD pipelines using blue-green deployment strategies to ensure zero-downtime updates; enforced paper-first system design to ensure the team fully thought through system logic before writing code, preventing messy architecture and hardcoded secret leaks</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Engineering Governance &amp; CI/CD Risk Management: Managed robust CI/CD pipelines using blue-green deployment strategies to ensure zero-downtime updates; enforced paper-first system design to ensure the team fully thought through system logic before writing code, preventing messy architecture and hardcoded secret leaks</li>
       </ul>
     </td>
   </tr>
@@ -108,13 +102,13 @@ li {
       <h3>Cenntre</h3>
       <p><i>Infrastructure &amp; Systems Lead Consultant - Mar 2022 - Dec 2022</i></p>
       <ul>
-        <li>Multi-Cloud &amp; Serverless Blueprinting: Led system design on paper first to blueprint architecture before execution; mapped and migrated core services across GCP, Azure, and DigitalOcean while orchestrating Cloudflare serverless workflows to slash overall cloud bills by <b>25%</b></li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Multi-Cloud &amp; Serverless Blueprinting: Led system design on paper first to blueprint architecture before execution; mapped and migrated core services across GCP, Azure, and DigitalOcean while orchestrating Cloudflare serverless workflows to slash overall cloud bills by <b>25%</b></li>
 
-        <li>Bare-Metal &amp; VPS Resource Optimization: Engineered full-stack environments on restricted VPS setups; maximized compute efficiency by tuning Nginx proxies, configuring Fail2ban traffic filtering, and enforcing strict Docker memory/CPU limits on 4GB RAM configurations to prevent resource exhaustion</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Bare-Metal &amp; VPS Resource Optimization: Engineered full-stack environments on restricted VPS setups; maximized compute efficiency by tuning Nginx proxies, configuring Fail2ban traffic filtering, and enforcing strict Docker memory/CPU limits on 4GB RAM configurations to prevent resource exhaustion</li>
 
-        <li>Defense-in-Depth Threat Modeling: Architected multi-layered system boundaries by threat-modeling attacker pathways; locked down the application, caching, and database layers to drastically minimize the outer attack surface and proactively neutralize intrusion vectors</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Defense-in-Depth Threat Modeling: Architected multi-layered system boundaries by threat-modeling attacker pathways; locked down the application, caching, and database layers to drastically minimize the outer attack surface and proactively neutralize intrusion vectors</li>
 
-        <li>Advanced Data Governance &amp; Log Offloading: Built automated logging paths that securely stream server logs to isolated third-party storage; ensured strict PII data anonymity compliance while reducing critical production bug isolation and tracking times to under an hour</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"Advanced Data Governance &amp; Log Offloading: Built automated logging paths that securely stream server logs to isolated third-party storage; ensured strict PII data anonymity compliance while reducing critical production bug isolation and tracking times to under an hour</li>
       </ul>
     </td>
   </tr>
@@ -128,11 +122,11 @@ li {
       <h3>Screenity</h3>
       <p><i>Screen Recording Tool with 180k+ Users</i></p>
       <ul>
-        <li><b>The Problem:</b> Linux users were experiencing sudden browser crashes and broken video files because the software did not handle audio and video streams correctly on Linux operating systems.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Problem:</b> Linux users were experiencing sudden browser crashes and broken video files because the software did not handle audio and video streams correctly on Linux operating systems.</li>
 
-        <li><b>The Action:</b> I identified the error in how the system processed video file headers, wrote a clean code fix, and submitted a pull request to the global code repository along with clear instructions for other developers.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Action:</b> I identified the error in how the system processed video file headers, wrote a clean code fix, and submitted a pull request to the global code repository along with clear instructions for other developers.</li>
 
-        <li><b>The Result:</b> The fix was approved and merged into production, preventing system crashes for thousands of Linux users and earning a thumbs-up from the development community.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Result:</b> The fix was approved and merged into production, preventing system crashes for thousands of Linux users and earning a thumbs-up from the development community.</li>
       </ul>
     </td>
   </tr>
@@ -141,11 +135,11 @@ li {
       <h3>LinkedIn Automation Framework (LAF) & Content Tools</h3>
       <p><i>Lead Developer</i></p>
       <ul>
-        <li><b>The Problem:</b> Professionals wanted a way to grow their social media presence through smart commenting and post scheduling, but manually managing content calendars took too much time.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Problem:</b> Professionals wanted a way to grow their social media presence through smart commenting and post scheduling, but manually managing content calendars took too much time.</li>
 
-        <li><b>The Action:</b> Built a custom desktop browser extension to draft context-aware comment outlines, and engineered a Python-based automation framework to handle posts, likes, and scheduling.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Action:</b> Built a custom desktop browser extension to draft context-aware comment outlines, and engineered a Python-based automation framework to handle posts, likes, and scheduling.</li>
 
-        <li><b>The Result:</b> Successfully automated daily social media management until third-party platform rules changed, at which point I strategically took the tool offline to safely protect user accounts from being banned.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Result:</b> Successfully automated daily social media management until third-party platform rules changed, at which point I strategically took the tool offline to safely protect user accounts from being banned.</li>
       </ul>
     </td>
   </tr>
@@ -154,11 +148,11 @@ li {
       <h3>A4 Document Print System</h3>
       <p><i>Lead Developer</i></p>
       <ul>
-        <li><b>The Problem:</b> Local copy shops in Nigeria struggled with cluttered local device storage, high malware risks from unverified customer file uploads, and inefficient transfer steps between customers and printers.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Problem:</b> Local copy shops in Nigeria struggled with cluttered local device storage, high malware risks from unverified customer file uploads, and inefficient transfer steps between customers and printers.</li>
 
-        <li><b>The Action:</b> Built the A4 document print system using custom WordPress PHP, Tailwind CSS, Vanilla JS, and Cloudflare R2 storage; integrated a secondary API for malware analysis to scan uploads before they hit print shop machines, allowing customers to send files straight to the system without storing them locally.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Action:</b> Built the A4 document print system using custom WordPress PHP, Tailwind CSS, Vanilla JS, and Cloudflare R2 storage; integrated a secondary API for malware analysis to scan uploads before they hit print shop machines, allowing customers to send files straight to the system without storing them locally.</li>
 
-        <li><b>The Result:</b> Successfully eliminated risky middle steps in file transfers, protected local print shop computers from malware attacks, and scaled the platform to support 27 active local photocopy businesses.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Result:</b> Successfully eliminated risky middle steps in file transfers, protected local print shop computers from malware attacks, and scaled the platform to support 27 active local photocopy businesses.</li>
       </ul>
     </td>
   </tr>
@@ -167,11 +161,11 @@ li {
       <h3>RentSafe</h3>
       <p><i>Lead Developer</i></p>
       <ul>
-        <li><b>The Problem:</b> People frequently rented apartments blindly; ending up in high-risk neighborhoods or with hidden property defects like leaking roofs because there was no centralized platform to check honest, real-world tenant reviews and ratings.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Problem:</b> People frequently rented apartments blindly; ending up in high-risk neighborhoods or with hidden property defects like leaking roofs because there was no centralized platform to check honest, real-world tenant reviews and ratings.</li>
 
-        <li><b>The Action:</b> Built RentSafe using custom WordPress environments and mapping APIs; created a centralized review hub where users can input exact property addresses, share apartment experiences, and check verified neighborhood safety data before renting.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Action:</b> Built RentSafe using custom WordPress environments and mapping APIs; created a centralized review hub where users can input exact property addresses, share apartment experiences, and check verified neighborhood safety data before renting.</li>
 
-        <li><b>The Result:</b> Successfully launched a trusted community platform that has already helped users find proper apartments and avoid dangerous or poorly maintained locations based on real tenant ratings.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>The Result:</b> Successfully launched a trusted community platform that has already helped users find proper apartments and avoid dangerous or poorly maintained locations based on real tenant ratings.</li>
       </ul>
     </td>
   </tr>
@@ -183,15 +177,15 @@ li {
   <tr>
     <td>
       <ul>
-        <li><b>Infrastructure & Cloud Platforms:</b> Google Cloud Platform (GCP), Microsoft Azure, DigitalOcean, Linux, Bare-Metal VPS, Management, Serverless Architectures, Cloudflare Workers, Scalable Object Storage Topology.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>Infrastructure & Cloud Platforms:</b> Google Cloud Platform (GCP), Microsoft Azure, DigitalOcean, Linux, Bare-Metal VPS, Management, Serverless Architectures, Cloudflare Workers, Scalable Object Storage Topology.</li>
 
-        <li><b>Network & Perimeter Security:</b> Fail2ban Automated Intrusion Prevention, Traffic/Bot Mitigation via Cloudflare Edge, Secure Reverse Proxies (Nginx), Custom VPN Architecture, Cloud Firewalls.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>Network & Perimeter Security:</b> Fail2ban Automated Intrusion Prevention, Traffic/Bot Mitigation via Cloudflare Edge, Secure Reverse Proxies (Nginx), Custom VPN Architecture, Cloud Firewalls.</li>
 
-        <li><b>Full-Stack Layer Protection:</b> Multi-Tier Defenses (Application, Database, Caching, Network Layer Security), Threat Vector Penetration Modeling, Third-Party Secret/Credential Management Keys.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>Full-Stack Layer Protection:</b> Multi-Tier Defenses (Application, Database, Caching, Network Layer Security), Threat Vector Penetration Modeling, Third-Party Secret/Credential Management Keys.</li>
 
-        <li><b>Data Governance & Logging:</b> External Secure Log Forwarding, PII Data Anonymization Compliance, High-Availability Caching (Redis Topology), Database Layer Isolation, Row-Level Security (RLS).</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>Data Governance & Logging:</b> External Secure Log Forwarding, PII Data Anonymization Compliance, High-Availability Caching (Redis Topology), Database Layer Isolation, Row-Level Security (RLS).</li>
 
-        <li><b>Engineering Governance:</b> Big Tech Standard Task Deconstruction, Automated In-House Unit Testing Frameworks, CI/CD Continuous Integration Pipelines, Blue-Green Zero-Downtime Deployments, Post-Commit Secret Leak Incident Mitigation.</li>
+        <li style="margin-top: 15px; margin-bottom: 15px;"<b>Engineering Governance:</b> Big Tech Standard Task Deconstruction, Automated In-House Unit Testing Frameworks, CI/CD Continuous Integration Pipelines, Blue-Green Zero-Downtime Deployments, Post-Commit Secret Leak Incident Mitigation.</li>
       </ul>
     </td>
   </tr>
