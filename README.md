@@ -128,7 +128,7 @@
     <td>
       <p style="margin: 15px 0;">• <b>Infrastructure & Cloud Platforms:</b> Google Cloud Platform (GCP), Microsoft Azure, DigitalOcean, Linux, Bare-Metal VPS, Management, Serverless Architectures, Cloudflare Workers, Scalable Object Storage Topology.</p>
       <p style="margin: 15px 0;">• <b>Network & Perimeter Security:</b> Fail2ban Automated Intrusion Prevention, Traffic/Bot Mitigation via Cloudflare Edge, Secure Reverse Proxies (Nginx), Custom VPN Architecture, Cloud Firewalls.</p>
-      <p style="margin: 15px 0;">• <b>Full-Stack Layer Protection:</b> Multi-Tier Defenses (Application, Database, Caching, Network Layer Security), Threat Vector Penetration Modeling, Third-Party Secret/Credential Management Keys.</p>
+      <p style="margin: 15px 0;">• <b>Full-Stack Layer Protection:</b> Multi-Tier Defenses (Application, Database, Caching, Network Layer Security), Secure Architectural Design, Third-Party Secret/Credential Management Keys.</p>
       <p style="margin: 15px 0;">• <b>Data Governance & Logging:</b> External Secure Log Forwarding, PII Data Anonymization Compliance, High-Availability Caching (Redis Topology), Database Layer Isolation, Row-Level Security (RLS).</p>
       <p style="margin: 15px 0;">• <b>Engineering Governance:</b> Big Tech Standard Task Deconstruction, Automated In-House Unit Testing Frameworks, CI/CD Continuous Integration Pipelines, Blue-Green Zero-Downtime Deployments, Post-Commit Secret Leak Incident Mitigation.</p>
     </td>
