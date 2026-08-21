@@ -34,7 +34,7 @@
   <tr>
     <td>
       <h3>Paperless</h3>
-      <p><i>Software Engineer - Jun 2026 - Aug 2026</i>
+      <p><i>Software Engineer - Jun 2025 - Aug 2026</i>
       <br>
       <a href="https://paperless-two-sooty.vercel.app">
         <img src="https://img.shields.io/badge/View%20Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white&labelColor=0f172a" />
