@@ -6,7 +6,7 @@
 <h2 align="center">IN A NUTSHELL</h2>
 
 <p align="center" style="font-size: 1.15em; line-height: 1.7; font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
-  I’m a web systems architect your company needs to build advanced tech, get and keep customers, and achieve top-tier results without needing a massive budget.
+  I’m a Web systems architect who builds secure, high-performance applications while drastically cutting cloud bills through smart infrastructure design. Specialized in backend security, edge defense, and cost-efficient resource scaling.
 </p>
 
 <!-- SIGNATURE PROJECTS - Full-width stacked cards -->
