@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/Lilac and White Simple Marketing LinkedIn Article Cover Image.png?v=1" />
+  <img src="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/Lilac and White Simple Marketing LinkedIn Article Cover Image.png" />
 </div>
 
 <h2 align="center">IN A NUTSHELL</h2>
