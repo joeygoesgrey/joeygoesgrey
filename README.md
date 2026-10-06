@@ -1,13 +1,12 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/Lilac and White Simple Marketing LinkedIn Article Cover Image.png" />
+  <!-- <img src="https://cdn.meldev.com.ng/u/651e7401-dcc4-428b-a96d-bc7e15195e80/Lilac and White Simple Marketing LinkedIn Article Cover Image.png" /> -->
 </div>
 
 <h2 align="center">IN A NUTSHELL</h2>
 
 <p align="center" style="font-size: 1.15em; line-height: 1.7; font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;">
-  I’m a Web systems architect who builds secure, high-performance applications while drastically cutting cloud bills through smart infrastructure design. Specialized in backend security, edge defense, and cost-efficient resource scaling.
-</p>
+I’m a Backend Engineer who builds secure, high-performance applications while drastically cutting cloud bills through smart infrastructure design.</p>
 
 <!-- SIGNATURE PROJECTS - Full-width stacked cards -->
 <h2 align="center">Professional Experience</h2>
