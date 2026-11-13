@@ -62,6 +62,17 @@ I’m a Backend Engineer who builds secure, high-performance applications while 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeygoesgrey&theme=github-compact&bg_color=0f172a&color=0ea5e9&line=10b981&point=ffffff&area=true&hide_border=true" width="98%" />
 </div>
 
+<!-- CV -->
+<h2 align="center">My CV</h2>
+
+<div align="center">
+  <a href="https://joeygoesgrey.github.io/cv/">
+    <img width="52%" src="https://cdn.meldev.com.ng/users/2ee17b29-0e9c-4dde-8685-4ea06c8dec20/pub/assets/cv-preview.png" alt="Preview of the CV of Joseph Edomobi, Backend Engineer" />
+  </a>
+  <br><br>
+  <a href="https://cdn.meldev.com.ng/users/2ee17b29-0e9c-4dde-8685-4ea06c8dec20/pub/Joseph-Edomobi-CV.pdf"><b>Download CV (PDF)</b></a>
+</div>
+
 <!-- LET'S CONNECT -->
 <h2 align="center">Let's Build Together</h2>
 
